@@ -13,7 +13,7 @@
         "label": "Exams"
       },
       {
-        "value": "4649",
+        "value": "2303",
         "label": "Mock Tests"
       },
       {
@@ -105,7 +105,7 @@
               "id": "bitsat",
               "title": "BITSAT",
               "subtitle": "BITS Pilani",
-              "testsLabel": "437 Tests",
+              "testsLabel": "21 Tests",
               "icon": "fa-regular fa-lightbulb",
               "homePath": "examsnetapp/engineering/home/bitsat/"
             },
@@ -121,7 +121,7 @@
               "id": "viteee",
               "title": "VITEEE",
               "subtitle": "VIT Engineering",
-              "testsLabel": "437 Tests",
+              "testsLabel": "21 Tests",
               "icon": "fa-solid fa-flask",
               "homePath": "examsnetapp/engineering/home/viteee/"
             }
@@ -139,7 +139,7 @@
               "id": "ssc-cgl",
               "title": "SSC CGL",
               "subtitle": "SSC CGL Exam Resources",
-              "testsLabel": "488 Tests",
+              "testsLabel": "238 Tests",
               "icon": "fa-solid fa-building-shield",
               "homePath": "examsnetapp/ssc/home/cgl/"
             },
@@ -147,7 +147,7 @@
               "id": "ssc-chsl",
               "title": "SSC CHSL",
               "subtitle": "SSC CHSL Exam Resources",
-              "testsLabel": "424 Tests",
+              "testsLabel": "174 Tests",
               "icon": "fa-solid fa-building-shield",
               "homePath": "examsnetapp/ssc/home/chsl/"
             }
@@ -165,7 +165,7 @@
               "id": "rrb-groupd",
               "title": "RRB Group-D",
               "subtitle": "RRB Group D Exam",
-              "testsLabel": "398 Tests",
+              "testsLabel": "148 Tests",
               "icon": "fa-solid fa-building-shield",
               "homePath": "examsnetapp/rrb/home/groupd/"
             },
@@ -173,7 +173,7 @@
               "id": "rrb-ntpc",
               "title": "RRB NTPC Exam",
               "subtitle": "RRB NTPC Exam",
-              "testsLabel": "341 Tests",
+              "testsLabel": "91 Tests",
               "icon": "fa-solid fa-building-shield",
               "homePath": "examsnetapp/rrb/home/rrbntpc/"
             },
@@ -181,7 +181,7 @@
               "id": "rrb-alp",
               "title": "RRB ALP Exam",
               "subtitle": "RRB ALP Exam",
-              "testsLabel": "45 Tests",
+              "testsLabel": "52 Tests",
               "icon": "fa-solid fa-building-shield",
               "homePath": "examsnetapp/rrb/home/rrbalp/"
             }
@@ -217,7 +217,7 @@
               "id": "teacher-ctet",
               "title": "CTET",
               "subtitle": "Central Teacher Eligibility Test",
-              "testsLabel": "307 Tests",
+              "testsLabel": "241 Tests",
               "icon": "fa-solid fa-user-graduate",
               "homePath": "examsnetapp/tets/home/ctet/"
             },
@@ -225,7 +225,7 @@
               "id": "teacher-ugcnet",
               "title": "UGC NET",
               "subtitle": "National Eligibility Test",
-              "testsLabel": "353 Tests",
+              "testsLabel": "103 Tests",
               "icon": "fa-solid fa-user-pen",
               "homePath": "examsnetapp/tets/home/ugcnet/"
             }
@@ -243,7 +243,7 @@
               "id": "defence-afcat",
               "title": "AFCAT",
               "subtitle": "Air Force Common Admission Test",
-              "testsLabel": "286 Tests",
+              "testsLabel": "36 Tests",
               "icon": "fa-solid fa-jet-fighter",
               "homePath": "examsnetapp/defence/home/afcat/"
             }
