@@ -23,7 +23,7 @@
     ]
   },
   "bannerConfig": {
-    "active": true,
+    "active": false,
     "path": "examsnetapp/launch-banners"
   },
   "sections": [
