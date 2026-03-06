@@ -5,154 +5,48 @@
   },
   "categories": [
     {
-      "categorytitle": "JEE Exams",
+      "categorytitle": "Choose Your Exam",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
       "subjects": [
         {
-          "subjecttitle": "JEE Main Papers",
-          "slogo": "fa-solid fa-user-pen",
-          "expand": true,
+          "subjecttitle": "Previous Papers",
+          "slogo": "fa-solid fa-user-group",
+          "active": true,
           "chapters": [
             {
-              "chaptertitle": "JEE Main Previous Papers",
-              "chapterpath": "examsnetapp/jee/mainprevious/",
-              "clogo": "fa-solid fa-pencil",
-              "savekey": "JMP",
+              "chaptertitle": "AP EAPCET Previous Papers",
+              "chapterpath": "exams/engineering/apeamcetmed/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA1",
               "datatype": "exams",
               "active": true,
-              "common": false,
-              "subjectKeys": [
-                "IITMAIN"
-              ],
-              "totalTests": 169,
-              "testsLabel": "169 Tests",
-              "badgeText": "169 Tests"
+              "common": false
             },
             {
-              "chaptertitle": "JEE Main Model Papers",
-              "chapterpath": "examsnetapp/jee/mainmodel/",
-              "clogo": "fa-solid fa-pencil",
-              "savekey": "JMM",
+              "chaptertitle": "TS EAPCET Previous Papers",
+              "chapterpath": "exams/engineering/tseamcetmed/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA2",
               "datatype": "exams",
               "active": true,
-              "common": false,
-              "subjectKeys": [
-                "IITMAINMODEL"
-              ],
-              "totalTests": 32,
-              "testsLabel": "32 Tests",
-              "badgeText": "32 Tests"
-            },
-            {
-              "chaptertitle": "AIEEE Previous Papers",
-              "chapterpath": "examsnetapp/jee/aieee/",
-              "clogo": "fa-solid fa-pencil",
-              "savekey": "AIE",
-              "datatype": "exams",
-              "active": true,
-              "common": false,
-              "subjectKeys": [
-                "AIEEE"
-              ],
-              "totalTests": 19,
-              "testsLabel": "19 Tests",
-              "badgeText": "19 Tests"
+              "common": false
             }
           ]
         },
         {
-          "subjecttitle": "JEE Main Chapters Wise Questions",
-          "slogo": "fa-solid fa-user-pen",
-          "expand": true,
+          "subjecttitle": "Model Papers",
+          "slogo": "fa-solid fa-user-group",
+          "active": true,
           "chapters": [
             {
-              "chaptertitle": "JEE Main Class 11 Math Questions",
-              "chapterpath": "examsnetapp/jee/mainchapters/math11/",
-              "clogo": "fa-solid fa-pencil",
-              "savekey": "J1M",
+              "chaptertitle": "AP & TS Model Papers",
+              "chapterpath": "exams/engineering/aptseamcetmedmodel/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA17",
               "datatype": "exams",
               "active": true,
-              "common": false,
-              "subjectKeys": [
-                "jee-main-chapter-wise-questions"
-              ],
-              "totalTests": 25,
-              "testsLabel": "25 Tests",
-              "badgeText": "25 Tests"
-            },
-            {
-              "chaptertitle": "JEE Main Class 12 Math Questions",
-              "chapterpath": "examsnetapp/jee/mainchapters/math12/",
-              "clogo": "fa-solid fa-pencil",
-              "savekey": "J2M",
-              "datatype": "exams",
-              "active": true,
-              "common": false,
-              "subjectKeys": [
-                "jee-main-chapter-wise-questions"
-              ],
-              "totalTests": 33,
-              "testsLabel": "33 Tests",
-              "badgeText": "33 Tests"
-            },
-            {
-              "chaptertitle": "JEE Main Class 11 Chemistry Questions",
-              "chapterpath": "examsnetapp/jee/mainchapters/chemistry11/",
-              "clogo": "fa-solid fa-pencil",
-              "savekey": "J1C",
-              "datatype": "exams",
-              "active": true,
-              "common": false,
-              "subjectKeys": [
-                "jee-main-chapter-wise-questions"
-              ],
-              "totalTests": 26,
-              "testsLabel": "26 Tests",
-              "badgeText": "26 Tests"
-            },
-            {
-              "chaptertitle": "JEE Main Class 12 Chemistry Questions",
-              "chapterpath": "examsnetapp/jee/mainchapters/chemistry12/",
-              "clogo": "fa-solid fa-pencil",
-              "savekey": "J2C",
-              "datatype": "exams",
-              "active": true,
-              "common": false,
-              "subjectKeys": [
-                "jee-main-chapter-wise-questions"
-              ],
-              "totalTests": 28,
-              "testsLabel": "28 Tests",
-              "badgeText": "28 Tests"
-            },
-            {
-              "chaptertitle": "JEE Main Class 11 Physics Questions",
-              "chapterpath": "examsnetapp/jee/mainchapters/physics11/",
-              "clogo": "fa-solid fa-pencil",
-              "savekey": "J1P",
-              "datatype": "exams",
-              "active": true,
-              "common": false,
-              "subjectKeys": [
-                "jee-main-chapter-wise-questions"
-              ],
-              "totalTests": 27,
-              "testsLabel": "27 Tests",
-              "badgeText": "27 Tests"
-            },
-            {
-              "chaptertitle": "JEE Main Class 12 Physics Questions",
-              "chapterpath": "examsnetapp/jee/mainchapters/physics12/",
-              "clogo": "fa-solid fa-user-pen",
-              "savekey": "J2P",
-              "datatype": "exams",
-              "active": true,
-              "common": false,
-              "subjectKeys": [
-                "jee-main-chapter-wise-questions"
-              ],
-              "totalTests": 32,
-              "testsLabel": "32 Tests",
-              "badgeText": "32 Tests"
+              "common": false
             }
           ]
         }
@@ -162,21 +56,21 @@
       "categorytitle": "Study Resources",
       "subjects": [
         {
-          "subjecttitle": "Math Notes",
+          "subjecttitle": "Biology Notes",
           "slogo": "fa-solid fa-book",
           "chapters": [
             {
-              "chaptertitle": "Math Class 11 Notes",
-              "chapterpath": "notes/hb/math11/",
-              "clogo": "fa-brands fa-readme",
+              "chaptertitle": "Biology Class 11 Notes",
+              "chapterpath": "notes/hb/biology11/",
+              "clogo": "fa-solid fa-book-open",
               "datatype": "notes",
               "active": true,
               "common": true
             },
             {
-              "chaptertitle": "Math Class 12 Notes",
-              "chapterpath": "notes/hb/math12/",
-              "clogo": "fa-brands fa-readme",
+              "chaptertitle": "Biology Class 12 Notes",
+              "chapterpath": "notes/hb/biology12/",
+              "clogo": "fa-solid fa-book-open",
               "datatype": "notes",
               "active": true,
               "common": true
@@ -222,143 +116,6 @@
               "chapterpath": "notes/hb/physics12/",
               "clogo": "fa-brands fa-readme",
               "datatype": "notes",
-              "active": true,
-              "common": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "categorytitle": "CBSE Concepts",
-      "elogo": "fa-solid fa-file-pen",
-      "active": true,
-      "subjects": [
-        {
-          "subjecttitle": "CBSE Class 10 Concepts",
-          "slogo": "fa-solid fa-book",
-          "active": true,
-          "expand": false,
-          "chapters": [
-            {
-              "chaptertitle": "Class 10 Biology Concepts",
-              "chapterpath": "cbse/concepts/Class10/biology/",
-              "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA0",
-              "datatype": "link",
-              "active": true,
-              "common": true
-            },
-            {
-              "chaptertitle": "Class 10 Chemistry Concepts",
-              "chapterpath": "cbse/concepts/Class10/chemistry/",
-              "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA1",
-              "datatype": "link",
-              "active": true,
-              "common": true
-            },
-            {
-              "chaptertitle": "Class 10 Math Concepts",
-              "chapterpath": "cbse/concepts/Class10/math/",
-              "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA2",
-              "datatype": "link",
-              "active": true,
-              "common": true
-            },
-            {
-              "chaptertitle": "Class 10 Physics Concepts",
-              "chapterpath": "cbse/concepts/Class10/physics/",
-              "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA3",
-              "datatype": "link",
-              "active": true,
-              "common": true
-            },
-            {
-              "chaptertitle": "Class 10 Social Science Concepts",
-              "chapterpath": "cbse/concepts/Class10/socialscience/",
-              "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA4",
-              "datatype": "link",
-              "active": true,
-              "common": true
-            }
-          ]
-        },
-        {
-          "subjecttitle": "CBSE Class 11 Concepts",
-          "slogo": "fa-solid fa-user-group",
-          "active": true,
-          "chapters": [
-            {
-              "chaptertitle": "Class 11 Chemistry Concepts",
-              "chapterpath": "cbse/concepts/Class11/chemistry/",
-              "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA5",
-              "datatype": "link",
-              "active": true,
-              "common": true
-            },
-            {
-              "chaptertitle": "Class 11 Math Concepts",
-              "chapterpath": "cbse/concepts/Class11/math/",
-              "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA6",
-              "datatype": "link",
-              "active": true,
-              "common": true
-            },
-            {
-              "chaptertitle": "Class 11 Physics Concepts",
-              "chapterpath": "cbse/concepts/Class11/physics/",
-              "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA7",
-              "datatype": "link",
-              "active": true,
-              "common": true
-            }
-          ]
-        },
-        {
-          "subjecttitle": "CBSE Class 12 Concepts",
-          "slogo": "fa-solid fa-book",
-          "active": true,
-          "chapters": [
-            {
-              "chaptertitle": "Class 12 Biology Concepts",
-              "chapterpath": "cbse/concepts/Class12/biology/",
-              "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA8",
-              "datatype": "link",
-              "active": true,
-              "common": true
-            },
-            {
-              "chaptertitle": "Class 12 Chemistry Concepts",
-              "chapterpath": "cbse/concepts/Class12/chemistry/",
-              "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA9",
-              "datatype": "link",
-              "active": true,
-              "common": true
-            },
-            {
-              "chaptertitle": "Class 12 Math Concepts",
-              "chapterpath": "cbse/concepts/Class12/math/",
-              "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA10",
-              "datatype": "link",
-              "active": true,
-              "common": true
-            },
-            {
-              "chaptertitle": "Class 12 Physics Concepts",
-              "chapterpath": "cbse/concepts/Class12/physics/",
-              "clogo": "fa-solid fa-book-open",
-              "savekey": "EXA11",
-              "datatype": "link",
               "active": true,
               "common": true
             }
@@ -718,22 +475,8 @@
       ]
     }
   ],
-  "productBanner": {
-    "id": "premium-home-product",
-    "active": true,
-    "type": "product",
-    "title": "Premium Mock Pack",
-    "subtitle": "Unlock full tests, analytics and smart review.",
-    "imageUrl": "https://examsnet.github.io/cdn/img/launch/premium-pack.jpg",
-    "ctaText": "Explore Premium",
-    "ctaUrl": "https://examsnet.com/premium",
-    "startDate": "2026-03-01",
-    "endDate": "2026-12-31",
-    "dismissible": true,
-    "backgroundColor": "#f4f7ff",
-    "borderColor": "#5e78ff",
-    "textColor": "#1d2459",
-    "ctaBackgroundColor": "#2d58d8",
-    "ctaTextColor": "#ffffff"
+  "products": {
+    "parentType": "product",
+    "items": []
   }
 }

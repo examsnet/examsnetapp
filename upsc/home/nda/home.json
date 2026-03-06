@@ -1,0 +1,182 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Entrance Exams",
+      "elogo": "fa-solid fa-file-pen",
+      "subjects": [
+        {
+          "subjecttitle": "UPSC NDA Papers",
+          "slogo": "fa-solid fa-user-shield",
+          "active": true,
+          "chapters": [
+            {
+              "chaptertitle": "UPSC NDA Model Papers",
+              "chapterpath": "exams/upsc/ndamodel/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA8",
+              "datatype": "exams",
+              "active": true,
+              "common": false
+            },
+            {
+              "chaptertitle": "UPSC NDA Previous Papers",
+              "chapterpath": "exams/upsc/nda/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA9",
+              "datatype": "exams",
+              "active": true,
+              "common": false
+            }
+          ]
+        },
+        {
+          "subjecttitle": "UPSC NDA Chapters wise Papers",
+          "slogo": "fa-solid fa-user-shield",
+          "active": true,
+          "chapters": [
+            {
+              "chaptertitle": "NDA English Questions",
+              "chapterpath": "exams/upsc/ndachapter/english/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA7",
+              "datatype": "exams",
+              "active": true,
+              "common": false
+            },
+            {
+              "chaptertitle": "NDA General Science Questions",
+              "chapterpath": "exams/upsc/ndachapter/science/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA9",
+              "datatype": "exams",
+              "active": true,
+              "common": false
+            },
+            {
+              "chaptertitle": "NDA General Studies Questions",
+              "chapterpath": "exams/upsc/ndachapter/gs/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA9",
+              "datatype": "exams",
+              "active": true,
+              "common": false
+            },
+            {
+              "chaptertitle": "NDA Math Questions",
+              "chapterpath": "exams/upsc/ndachapter/math/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA8",
+              "datatype": "exams",
+              "active": true,
+              "common": false
+            }
+          ]
+        }
+      ]
+    },
+     
+    {
+      "categorytitle": "Study Material",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "subjects": [
+        {
+          "subjecttitle": "General Studies",
+          "slogo": "fa-solid fa-book",
+          "active": true,
+          "chapters": [
+            {
+              "chaptertitle": "Biology",
+              "chapterpath": "study/generalstudies/biology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA0",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Chemistry",
+              "chapterpath": "study/generalstudies/chemistry/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA1",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Environment Ecology",
+              "chapterpath": "study/generalstudies/environmentecology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA2",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "History",
+              "chapterpath": "study/generalstudies/history/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA3",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "India and World Geography",
+              "chapterpath": "study/generalstudies/indiaandworldgeography/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA4",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Indian Economy",
+              "chapterpath": "study/generalstudies/indianeconomy/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA5",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Indian Politics",
+              "chapterpath": "study/generalstudies/indianpolitics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA6",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Physics",
+              "chapterpath": "study/generalstudies/physics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA7",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Science and Technology",
+              "chapterpath": "study/generalstudies/scienceandtechnology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA8",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

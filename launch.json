@@ -9,11 +9,11 @@
     "active": true,
     "items": [
       {
-        "value": "16",
+        "value": "26",
         "label": "Exams"
       },
       {
-        "value": "1003",
+        "value": "4649",
         "label": "Mock Tests"
       },
       {
@@ -47,7 +47,7 @@
               "subtitle": "JEE Main Exams",
               "testsLabel": "391 Tests",
               "icon": "fa-solid fa-calculator",
-              "homePath": "examsnetapp/jee/home/mainshome/"
+              "homePath": "examsnetapp/jee/home/main/"
             },
             {
               "id": "jee-advanced",
@@ -55,7 +55,7 @@
               "subtitle": "JEE Advanced Exams",
               "testsLabel": "170 Tests",
               "icon": "fa-solid fa-graduation-cap",
-              "homePath": "examsnetapp/jee/home/advhome/"
+              "homePath": "examsnetapp/jee/home/adv/"
             }
           ]
         },
@@ -73,7 +73,7 @@
               "subtitle": "NEET Exam Preparation",
               "testsLabel": "179 Tests",
               "icon": "fa-solid fa-stethoscope",
-              "homePath": "examsnetapp/medical/home/neethome"
+              "homePath": "examsnetapp/medical/home/neet/"
             },
             {
               "id": "aipmt",
@@ -81,7 +81,7 @@
               "subtitle": "AIPMT Exam Preparation",
               "testsLabel": "30 Tests",
               "icon": "fa-solid fa-user-doctor",
-              "homePath": "examsnetapp/medical/home/aipmthome/"
+              "homePath": "examsnetapp/medical/home/aipmt/"
             }
           ]
         },
@@ -97,33 +97,33 @@
               "id": "eamcet",
               "title": "EAMCET",
               "subtitle": "AP/TS EAMCET",
-              "testsLabel": "233 Tests",
+              "testsLabel": "322 Tests",
               "icon": "fa-solid fa-graduation-cap",
-              "homePath": "examsnetapp/engineering/home/eamcethome/"
+              "homePath": "examsnetapp/engineering/home/eamcet/"
             },
             {
               "id": "bitsat",
               "title": "BITSAT",
               "subtitle": "BITS Pilani",
-              "testsLabel": "28 Tests",
+              "testsLabel": "437 Tests",
               "icon": "fa-regular fa-lightbulb",
-              "homePath": "examsnetapp/engineering/home/bitsathome/"
+              "homePath": "examsnetapp/engineering/home/bitsat/"
             },
             {
               "id": "kcet",
               "title": "KCET",
               "subtitle": "VIT Engineering",
-              "testsLabel": "30 Tests",
+              "testsLabel": "86 Tests",
               "icon": "fa-solid fa-flask",
-              "homePath": "examsnetapp/engineering/home/kcethome/"
+              "homePath": "examsnetapp/engineering/home/kcet/"
             },
             {
               "id": "viteee",
               "title": "VITEEE",
               "subtitle": "VIT Engineering",
-              "testsLabel": "30 Tests",
+              "testsLabel": "437 Tests",
               "icon": "fa-solid fa-flask",
-              "homePath": "examsnetapp/engineering/home/viteeehome/"
+              "homePath": "examsnetapp/engineering/home/viteee/"
             }
           ]
         },
@@ -139,17 +139,17 @@
               "id": "ssc-cgl",
               "title": "SSC CGL",
               "subtitle": "SSC CGL Exam Resources",
-              "testsLabel": "45 Tests",
+              "testsLabel": "488 Tests",
               "icon": "fa-solid fa-building-shield",
-              "homePath": "examsnetapp/ssc/home/ssccglhome"
+              "homePath": "examsnetapp/ssc/home/cgl/"
             },
             {
               "id": "ssc-chsl",
               "title": "SSC CHSL",
               "subtitle": "SSC CHSL Exam Resources",
-              "testsLabel": "45 Tests",
+              "testsLabel": "424 Tests",
               "icon": "fa-solid fa-building-shield",
-              "homePath": "examsnetapp/ssc/home/sscchslhome"
+              "homePath": "examsnetapp/ssc/home/chsl/"
             }
           ]
         },
@@ -165,17 +165,17 @@
               "id": "rrb-groupd",
               "title": "RRB Group-D",
               "subtitle": "RRB Group D Exam",
-              "testsLabel": "45 Tests",
+              "testsLabel": "398 Tests",
               "icon": "fa-solid fa-building-shield",
-              "homePath": "examsnetapp/rrb/home/rrbgdhome"
+              "homePath": "examsnetapp/rrb/home/groupd/"
             },
             {
               "id": "rrb-ntpc",
               "title": "RRB NTPC Exam",
               "subtitle": "RRB NTPC Exam",
-              "testsLabel": "45 Tests",
+              "testsLabel": "341 Tests",
               "icon": "fa-solid fa-building-shield",
-              "homePath": "examsnetapp/rrb/home/rrbntpchome"
+              "homePath": "examsnetapp/rrb/home/rrbntpc/"
             },
             {
               "id": "rrb-alp",
@@ -183,7 +183,7 @@
               "subtitle": "RRB ALP Exam",
               "testsLabel": "45 Tests",
               "icon": "fa-solid fa-building-shield",
-              "homePath": "examsnetapp/rrb/home/rrbalphome"
+              "homePath": "examsnetapp/rrb/home/rrbalp/"
             }
           ]
         },
@@ -202,6 +202,126 @@
               "testsLabel": "0 Tests",
               "icon": "fa-solid fa-ban",
               "homePath": "examsnetapp/hidden-sample/"
+            }
+          ]
+        },
+        {
+          "id": "teacher-exams",
+          "active": true,
+          "title": "Teacher Exams",
+          "subtitle": "Teacher Eligibility Exams",
+          "expanded": false,
+          "icon": "fa-solid fa-chalkboard-user",
+          "exams": [
+            {
+              "id": "teacher-ctet",
+              "title": "CTET",
+              "subtitle": "Central Teacher Eligibility Test",
+              "testsLabel": "307 Tests",
+              "icon": "fa-solid fa-user-graduate",
+              "homePath": "examsnetapp/tets/home/ctet/"
+            },
+            {
+              "id": "teacher-ugcnet",
+              "title": "UGC NET",
+              "subtitle": "National Eligibility Test",
+              "testsLabel": "353 Tests",
+              "icon": "fa-solid fa-user-pen",
+              "homePath": "examsnetapp/tets/home/ugcnet/"
+            }
+          ]
+        },
+        {
+          "id": "defence-exams",
+          "active": true,
+          "title": "Defence Exams",
+          "subtitle": "Armed forces preparation",
+          "expanded": false,
+          "icon": "fa-solid fa-shield",
+          "exams": [
+            {
+              "id": "defence-afcat",
+              "title": "AFCAT",
+              "subtitle": "Air Force Common Admission Test",
+              "testsLabel": "286 Tests",
+              "icon": "fa-solid fa-jet-fighter",
+              "homePath": "examsnetapp/defence/home/afcat/"
+            }
+          ]
+        },
+        {
+          "id": "board-exams",
+          "active": true,
+          "title": "Board Exams",
+          "subtitle": "State and central boards",
+          "expanded": false,
+          "icon": "fa-solid fa-school",
+          "exams": [
+            {
+              "id": "board-cbse",
+              "title": "CBSE",
+              "subtitle": "CBSE Previous Papers and Resources",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-book-open-reader",
+              "homePath": "examsnetapp/board/home/cbse/"
+            }
+          ]
+        },
+        {
+          "id": "certification-exams",
+          "active": true,
+          "title": "Certifications",
+          "subtitle": "Professional certification exams",
+          "expanded": false,
+          "icon": "fa-solid fa-certificate",
+          "exams": [
+            {
+              "id": "cert-capm",
+              "title": "CAPM",
+              "subtitle": "Certified Associate in Project Management",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-award",
+              "homePath": "examsnetapp/certification/home/capm/"
+            },
+            {
+              "id": "cert-cisco",
+              "title": "Cisco",
+              "subtitle": "Cisco Certification Practice",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-network-wired",
+              "homePath": "examsnetapp/certification/home/cisco/"
+            },
+            {
+              "id": "cert-cissp",
+              "title": "CISSP",
+              "subtitle": "Security Certification Practice",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-user-lock",
+              "homePath": "examsnetapp/certification/home/cissp/"
+            },
+            {
+              "id": "cert-comptia",
+              "title": "CompTIA",
+              "subtitle": "CompTIA Certification Practice",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-laptop-code",
+              "homePath": "examsnetapp/certification/home/comptia/"
+            },
+            {
+              "id": "cert-itil",
+              "title": "ITIL",
+              "subtitle": "ITIL Certification Practice",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-screwdriver-wrench",
+              "homePath": "examsnetapp/certification/home/itil/"
+            },
+            {
+              "id": "cert-pmp",
+              "title": "PMP",
+              "subtitle": "Project Management Professional",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-diagram-project",
+              "homePath": "examsnetapp/certification/home/pmp/"
             }
           ]
         }

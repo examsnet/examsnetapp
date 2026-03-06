@@ -5,7 +5,7 @@
   },
   "categories": [
     {
-      "categorytitle": "AP/ TS EAMCET Exams",
+      "categorytitle": "JEE Exams",
       "subjects": [
         {
           "subjecttitle": "JEE Main Papers",
@@ -13,8 +13,8 @@
           "expand": true,
           "chapters": [
             {
-              "chaptertitle": "EAMCET Previous",
-              "chapterpath": "examsnetapp/engineering/eamcet/",
+              "chaptertitle": "JEE Main Previous Papers",
+              "chapterpath": "examsnetapp/jee/mainprevious/",
               "clogo": "fa-solid fa-pencil",
               "savekey": "JMP",
               "datatype": "exams",
@@ -28,8 +28,8 @@
               "badgeText": "169 Tests"
             },
             {
-              "chaptertitle": "AP EAPCET Previous",
-              "chapterpath": "examsnetapp/engineering/eapcet/",
+              "chaptertitle": "JEE Main Model Papers",
+              "chapterpath": "examsnetapp/jee/mainmodel/",
               "clogo": "fa-solid fa-pencil",
               "savekey": "JMM",
               "datatype": "exams",
@@ -43,8 +43,8 @@
               "badgeText": "32 Tests"
             },
             {
-              "chaptertitle": "TG EAPCET Previous",
-              "chapterpath": "examsnetapp/engineering/tseamcet/",
+              "chaptertitle": "AIEEE Previous Papers",
+              "chapterpath": "examsnetapp/jee/aieee/",
               "clogo": "fa-solid fa-pencil",
               "savekey": "AIE",
               "datatype": "exams",
@@ -57,17 +57,16 @@
               "testsLabel": "19 Tests",
               "badgeText": "19 Tests"
             }
-             
           ]
         },
         {
-          "subjecttitle": "AP EAMCET Chapters Wise Questions",
+          "subjecttitle": "JEE Main Chapters Wise Questions",
           "slogo": "fa-solid fa-user-pen",
           "expand": true,
           "chapters": [
             {
               "chaptertitle": "JEE Main Class 11 Math Questions",
-              "chapterpath": "examsnetapp/engineering/apeapcetchapters/math11/",
+              "chapterpath": "examsnetapp/jee/mainchapters/math11/",
               "clogo": "fa-solid fa-pencil",
               "savekey": "J1M",
               "datatype": "exams",
@@ -82,7 +81,7 @@
             },
             {
               "chaptertitle": "JEE Main Class 12 Math Questions",
-              "chapterpath": "examsnetapp/engineering/apeapcetchapters/math12/",
+              "chapterpath": "examsnetapp/jee/mainchapters/math12/",
               "clogo": "fa-solid fa-pencil",
               "savekey": "J2M",
               "datatype": "exams",
@@ -97,7 +96,7 @@
             },
             {
               "chaptertitle": "JEE Main Class 11 Chemistry Questions",
-              "chapterpath": "examsnetapp/engineering/apeapcetchapters/chemistry11/",
+              "chapterpath": "examsnetapp/jee/mainchapters/chemistry11/",
               "clogo": "fa-solid fa-pencil",
               "savekey": "J1C",
               "datatype": "exams",
@@ -112,7 +111,7 @@
             },
             {
               "chaptertitle": "JEE Main Class 12 Chemistry Questions",
-              "chapterpath": "examsnetapp/engineering/apeapcetchapters/chemistry12/",
+              "chapterpath": "examsnetapp/jee/mainchapters/chemistry12/",
               "clogo": "fa-solid fa-pencil",
               "savekey": "J2C",
               "datatype": "exams",
@@ -127,7 +126,7 @@
             },
             {
               "chaptertitle": "JEE Main Class 11 Physics Questions",
-              "chapterpath": "examsnetapp/engineering/apeapcetchapters/physics11/",
+              "chapterpath": "examsnetapp/jee/mainchapters/physics11/",
               "clogo": "fa-solid fa-pencil",
               "savekey": "J1P",
               "datatype": "exams",
@@ -142,7 +141,7 @@
             },
             {
               "chaptertitle": "JEE Main Class 12 Physics Questions",
-              "chapterpath": "examsnetapp/engineering/apeapcetchapters/physics12/",
+              "chapterpath": "examsnetapp/jee/mainchapters/physics12/",
               "clogo": "fa-solid fa-user-pen",
               "savekey": "J2P",
               "datatype": "exams",
@@ -719,22 +718,27 @@
       ]
     }
   ],
-  "productBanner": {
-    "id": "premium-home-product",
-    "active": true,
-    "type": "product",
-    "title": "Premium Mock Pack",
-    "subtitle": "Unlock full tests, analytics and smart review.",
-    "imageUrl": "https://examsnet.github.io/cdn/img/launch/premium-pack.jpg",
-    "ctaText": "Explore Premium",
-    "ctaUrl": "https://examsnet.com/premium",
-    "startDate": "2026-03-01",
-    "endDate": "2026-12-31",
-    "dismissible": true,
-    "backgroundColor": "#f4f7ff",
-    "borderColor": "#5e78ff",
-    "textColor": "#1d2459",
-    "ctaBackgroundColor": "#2d58d8",
-    "ctaTextColor": "#ffffff"
+  "products": {
+    "parentType": "product",
+    "items": [
+      {
+        "id": "premium-home-product",
+        "active": true,
+        "type": "product",
+        "title": "Premium Mock Pack",
+        "subtitle": "Unlock full tests, analytics and smart review.",
+        "imageUrl": "https://examsnet.github.io/cdn/img/launch/premium-pack.jpg",
+        "ctaText": "Explore Premium",
+        "ctaUrl": "https://examsnet.com/premium",
+        "startDate": "2026-03-01",
+        "endDate": "2026-12-31",
+        "dismissible": true,
+        "backgroundColor": "#f4f7ff",
+        "borderColor": "#5e78ff",
+        "textColor": "#1d2459",
+        "ctaBackgroundColor": "#2d58d8",
+        "ctaTextColor": "#ffffff"
+      }
+    ]
   }
 }
