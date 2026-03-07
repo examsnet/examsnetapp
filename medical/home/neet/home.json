@@ -244,7 +244,7 @@
           "chapters": [
             {
               "chaptertitle": "Class 11 Biology",
-              "chapterpath": "board/ncert/books/class11/biology/",
+              "chapterpath": "gdrive/ncert/books/class11/biology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA22",
               "datatype": "link",
@@ -253,7 +253,7 @@
             },
             {
               "chaptertitle": "Class 11 Chemistry Part 1",
-              "chapterpath": "board/ncert/books/class11/chemistrypart1/",
+              "chapterpath": "gdrive/ncert/books/class11/chemistrypart1/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA25",
               "datatype": "link",
@@ -262,7 +262,7 @@
             },
             {
               "chaptertitle": "Class 11 Chemistry Part 2",
-              "chapterpath": "board/ncert/books/class11/chemistrypart2/",
+              "chapterpath": "gdrive/ncert/books/class11/chemistrypart2/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA26",
               "datatype": "link",
@@ -271,7 +271,7 @@
             },
             {
               "chaptertitle": "Class 11 Physics Part 1",
-              "chapterpath": "board/ncert/books/class11/physicspart1/",
+              "chapterpath": "gdrive/ncert/books/class11/physicspart1/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA48",
               "datatype": "link",
@@ -280,7 +280,7 @@
             },
             {
               "chaptertitle": "Class 11 Physics Part 2",
-              "chapterpath": "board/ncert/books/class11/physicspart2/",
+              "chapterpath": "gdrive/ncert/books/class11/physicspart2/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA49",
               "datatype": "link",
@@ -296,7 +296,7 @@
           "chapters": [
             {
               "chaptertitle": "Class 11 Biology",
-              "chapterpath": "board/ncert/solutions/class11/biology/",
+              "chapterpath": "gdrive/ncert/solutions/class11/biology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA19",
               "datatype": "link",
@@ -305,7 +305,7 @@
             },
             {
               "chaptertitle": "Class 11 Chemistry",
-              "chapterpath": "board/ncert/solutions/class11/chemistry/",
+              "chapterpath": "gdrive/ncert/solutions/class11/chemistry/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA22",
               "datatype": "link",
@@ -314,7 +314,7 @@
             },
             {
               "chaptertitle": "Class 11 Physics",
-              "chapterpath": "board/ncert/solutions/class11/physics/",
+              "chapterpath": "gdrive/ncert/solutions/class11/physics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA43",
               "datatype": "link",
@@ -330,7 +330,7 @@
           "chapters": [
             {
               "chaptertitle": "Class 12 Biology",
-              "chapterpath": "board/ncert/books/class12/biology/",
+              "chapterpath": "gdrive/ncert/books/class12/biology/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA63",
               "datatype": "link",
@@ -339,7 +339,7 @@
             },
             {
               "chaptertitle": "Class 12 Biology Lab Manual",
-              "chapterpath": "board/ncert/books/class12/biologylabmanual/",
+              "chapterpath": "gdrive/ncert/books/class12/biologylabmanual/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA64",
               "datatype": "link",
@@ -348,7 +348,7 @@
             },
             {
               "chaptertitle": "Class 12 Chemistry Lab Manual",
-              "chapterpath": "board/ncert/books/class12/chemistrylabmanual/",
+              "chapterpath": "gdrive/ncert/books/class12/chemistrylabmanual/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA67",
               "datatype": "link",
@@ -357,7 +357,7 @@
             },
             {
               "chaptertitle": "Class 12 Chemistry Part I",
-              "chapterpath": "board/ncert/books/class12/chemistryparti/",
+              "chapterpath": "gdrive/ncert/books/class12/chemistryparti/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA68",
               "datatype": "link",
@@ -366,7 +366,7 @@
             },
             {
               "chaptertitle": "Class 12 Chemistry Part II",
-              "chapterpath": "board/ncert/books/class12/chemistrypartii/",
+              "chapterpath": "gdrive/ncert/books/class12/chemistrypartii/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA69",
               "datatype": "link",
@@ -375,7 +375,7 @@
             },
             {
               "chaptertitle": "Class 12 Physics Lab Manual",
-              "chapterpath": "board/ncert/books/class12/physicslabmanual/",
+              "chapterpath": "gdrive/ncert/books/class12/physicslabmanual/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA93",
               "datatype": "link",
@@ -384,7 +384,7 @@
             },
             {
               "chaptertitle": "Class 12 Physics Part 1",
-              "chapterpath": "board/ncert/books/class12/physicspart1/",
+              "chapterpath": "gdrive/ncert/books/class12/physicspart1/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA94",
               "datatype": "link",
@@ -393,7 +393,7 @@
             },
             {
               "chaptertitle": "Class 12 Physics Part 2",
-              "chapterpath": "board/ncert/books/class12/physicspart2/",
+              "chapterpath": "gdrive/ncert/books/class12/physicspart2/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA95",
               "datatype": "link",
@@ -409,7 +409,7 @@
           "chapters": [
             {
               "chaptertitle": "Class 12 Chemistry",
-              "chapterpath": "board/ncert/solutions/class12/chemistry/",
+              "chapterpath": "gdrive/ncert/solutions/class12/chemistry/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA51",
               "datatype": "link",
@@ -418,7 +418,7 @@
             },
             {
               "chaptertitle": "Class 12 Physics",
-              "chapterpath": "board/ncert/solutions/class12/physics/",
+              "chapterpath": "gdrive/ncert/solutions/class12/physics/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA68",
               "datatype": "link",
@@ -434,7 +434,7 @@
           "chapters": [
             {
               "chaptertitle": "Biology",
-              "chapterpath": "board/ncert/exemplar/class11/biology/",
+              "chapterpath": "gdrive/ncert/exemplar/class11/biology/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA2",
               "datatype": "link",
@@ -443,7 +443,7 @@
             },
             {
               "chaptertitle": "Chemistry",
-              "chapterpath": "board/ncert/exemplar/class11/chemistry/",
+              "chapterpath": "gdrive/ncert/exemplar/class11/chemistry/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA3",
               "datatype": "link",
@@ -452,7 +452,7 @@
             },
             {
               "chaptertitle": "Physics",
-              "chapterpath": "board/ncert/exemplar/class11/physics/",
+              "chapterpath": "gdrive/ncert/exemplar/class11/physics/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA5",
               "datatype": "link",
@@ -468,7 +468,7 @@
           "chapters": [
             {
               "chaptertitle": "Biology",
-              "chapterpath": "board/ncert/exemplarsolutions/class11/biology/",
+              "chapterpath": "gdrive/ncert/exemplarsolutions/class11/biology/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA2",
               "datatype": "link",
@@ -477,7 +477,7 @@
             },
             {
               "chaptertitle": "Chemistry",
-              "chapterpath": "board/ncert/exemplarsolutions/class11/chemistry/",
+              "chapterpath": "gdrive/ncert/exemplarsolutions/class11/chemistry/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA3",
               "datatype": "link",
@@ -486,7 +486,7 @@
             },
             {
               "chaptertitle": "Physics",
-              "chapterpath": "board/ncert/exemplarsolutions/class11/physics/",
+              "chapterpath": "gdrive/ncert/exemplarsolutions/class11/physics/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA5",
               "datatype": "link",
@@ -502,7 +502,7 @@
           "chapters": [
             {
               "chaptertitle": "Biology",
-              "chapterpath": "board/ncert/exemplar/class12/biology/",
+              "chapterpath": "gdrive/ncert/exemplar/class12/biology/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA6",
               "datatype": "link",
@@ -511,7 +511,7 @@
             },
             {
               "chaptertitle": "Chemistry",
-              "chapterpath": "board/ncert/exemplar/class12/chemistry/",
+              "chapterpath": "gdrive/ncert/exemplar/class12/chemistry/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA7",
               "datatype": "link",
@@ -520,7 +520,7 @@
             },
             {
               "chaptertitle": "Physics",
-              "chapterpath": "board/ncert/exemplar/class12/physics/",
+              "chapterpath": "gdrive/ncert/exemplar/class12/physics/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA9",
               "datatype": "link",
@@ -537,7 +537,7 @@
           "chapters": [
             {
               "chaptertitle": "Biology",
-              "chapterpath": "board/ncert/exemplarsolutions/class12/biology/",
+              "chapterpath": "gdrive/ncert/exemplarsolutions/class12/biology/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA6",
               "datatype": "link",
@@ -546,7 +546,7 @@
             },
             {
               "chaptertitle": "Chemistry",
-              "chapterpath": "board/ncert/exemplarsolutions/class12/chemistry/",
+              "chapterpath": "gdrive/ncert/exemplarsolutions/class12/chemistry/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA7",
               "datatype": "link",
@@ -555,7 +555,7 @@
             },
             {
               "chaptertitle": "Physics",
-              "chapterpath": "board/ncert/exemplarsolutions/class12/physics/",
+              "chapterpath": "gdrive/ncert/exemplarsolutions/class12/physics/",
               "clogo": "fa-solid fa-file-lines",
               "savekey": "EXA9",
               "datatype": "link",
