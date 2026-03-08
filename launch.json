@@ -111,7 +111,7 @@
             },
             {
               "id": "eamcet",
-              "title": "EAMCET/EAPCET",
+              "title": "EAMCET or EAPCET",
               "subtitle": "AP and TS EAMCET Papers",
               "testsLabel": "256 Tests",
               "icon": "fa-solid fa-graduation-cap",
