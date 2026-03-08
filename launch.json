@@ -13,7 +13,7 @@
         "label": "Exams"
       },
       {
-        "value": "2878",
+        "value": "2652",
         "label": "Mock Tests"
       },
       {
@@ -113,7 +113,7 @@
               "id": "eamcet",
               "title": "EAMCET/EAPCET",
               "subtitle": "AP and TS EAMCET Papers",
-              "testsLabel": "345 Tests",
+              "testsLabel": "256 Tests",
               "icon": "fa-solid fa-graduation-cap",
               "homePath": "examsnetapp/engineering/home/eamcet/"
             },
@@ -257,9 +257,9 @@
             },
             {
               "id": "upsc-civils",
-              "title": "UPSC Civil Services",
+              "title": "UPSC Civils",
               "subtitle": "UPSC Civils Exam Papers",
-              "testsLabel": "194 Tests",
+              "testsLabel": "57 Tests",
               "icon": "fa-solid fa-jet-fighter",
               "homePath": "examsnetapp/upsc/home/civils/"
             },

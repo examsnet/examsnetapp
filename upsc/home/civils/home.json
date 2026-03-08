@@ -23,18 +23,16 @@
               "savekey": "BA2",
               "datatype": "exams",
               "active": true,
-
               "common": false,
               "subjectKeys": [
                 "UPSC"
               ],
-              "totalTests": 15,
-              "testsLabel": "15 Tests",
-              "badgeText": "15 Tests"
+              "totalTests": 57,
+              "testsLabel": "57 Tests",
+              "badgeText": "57 Tests"
             }
-             
           ]
-        } 
+        }
       ]
     },
     {
