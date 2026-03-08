@@ -1,7 +1,7 @@
 {
   "searchBar": {
     "active": true,
-    "placeholder": "Search exams, subjects..."
+    "placeholder": "Search exams or subjects..."
   },
   "expandByDefault": false,
   "favoritesTitle": "Favorites",
@@ -9,11 +9,11 @@
     "active": true,
     "items": [
       {
-        "value": "26",
+        "value": "21",
         "label": "Exams"
       },
       {
-        "value": "2303",
+        "value": "2878",
         "label": "Mock Tests"
       },
       {
@@ -37,40 +37,40 @@
           "id": "jeeexams",
           "active": true,
           "title": "JEE Exams",
-          "subtitle": "JEE Entrance exams",
+          "subtitle": "JEE Main, JEE Advanced, AIEEE, and more",
           "expanded": false,
           "icon": "fa-solid fa-microchip",
           "exams": [
             {
-              "id": "jee-main",
-              "title": "JEE Main",
-              "subtitle": "JEE Main Exams",
-              "testsLabel": "391 Tests",
-              "icon": "fa-solid fa-calculator",
-              "homePath": "examsnetapp/jee/home/main/"
-            },
-            {
               "id": "jee-advanced",
               "title": "JEE Advanced",
-              "subtitle": "JEE Advanced Exams",
+              "subtitle": "JEE Advanced Exam Papers",
               "testsLabel": "170 Tests",
               "icon": "fa-solid fa-graduation-cap",
               "homePath": "examsnetapp/jee/home/adv/"
+            },
+            {
+              "id": "jee-main",
+              "title": "JEE Main",
+              "subtitle": "JEE Main Exam Papers",
+              "testsLabel": "391 Tests",
+              "icon": "fa-solid fa-calculator",
+              "homePath": "examsnetapp/jee/home/main/"
             }
           ]
         },
         {
           "id": "medical",
           "active": true,
-          "title": "Medical",
-          "subtitle": "NEET Entrance exams",
+          "title": "Medical Exams",
+          "subtitle": "NEET, AIPMT, EAMCET, and more",
           "expanded": false,
           "icon": "fa-solid fa-heart-pulse",
           "exams": [
             {
               "id": "neet",
               "title": "NEET",
-              "subtitle": "NEET Exam Preparation",
+              "subtitle": "NEET Exam Papers",
               "testsLabel": "179 Tests",
               "icon": "fa-solid fa-stethoscope",
               "homePath": "examsnetapp/medical/home/neet/"
@@ -78,41 +78,49 @@
             {
               "id": "aipmt",
               "title": "AIPMT",
-              "subtitle": "AIPMT Exam Preparation",
+              "subtitle": "AIPMT Exam Papers",
               "testsLabel": "30 Tests",
               "icon": "fa-solid fa-user-doctor",
               "homePath": "examsnetapp/medical/home/aipmt/"
+            },
+            {
+              "id": "eamcetmedical",
+              "title": "EAMCET Medical",
+              "subtitle": "EAMCET Medical Exam Papers",
+              "testsLabel": "18 Tests",
+              "icon": "fa-solid fa-user-doctor",
+              "homePath": "examsnetapp/medical/home/eamcet/"
             }
           ]
         },
         {
           "id": "engineering",
           "active": true,
-          "title": "Engineering",
-          "subtitle": "Engineering Exams",
+          "title": "Engineering Exams",
+          "subtitle": "BITSAT, EAMCET, KCET, VITEEE, and more",
           "expanded": false,
           "icon": "fa-solid fa-microchip",
           "exams": [
             {
-              "id": "eamcet",
-              "title": "EAMCET",
-              "subtitle": "AP/TS EAMCET",
-              "testsLabel": "322 Tests",
-              "icon": "fa-solid fa-graduation-cap",
-              "homePath": "examsnetapp/engineering/home/eamcet/"
-            },
-            {
               "id": "bitsat",
               "title": "BITSAT",
-              "subtitle": "BITS Pilani",
+              "subtitle": "BITSAT Exam Papers",
               "testsLabel": "21 Tests",
               "icon": "fa-regular fa-lightbulb",
               "homePath": "examsnetapp/engineering/home/bitsat/"
             },
             {
+              "id": "eamcet",
+              "title": "EAMCET/EAPCET",
+              "subtitle": "AP and TS EAMCET Papers",
+              "testsLabel": "345 Tests",
+              "icon": "fa-solid fa-graduation-cap",
+              "homePath": "examsnetapp/engineering/home/eamcet/"
+            },
+            {
               "id": "kcet",
               "title": "KCET",
-              "subtitle": "VIT Engineering",
+              "subtitle": "KCET Exam Papers",
               "testsLabel": "86 Tests",
               "icon": "fa-solid fa-flask",
               "homePath": "examsnetapp/engineering/home/kcet/"
@@ -120,8 +128,8 @@
             {
               "id": "viteee",
               "title": "VITEEE",
-              "subtitle": "VIT Engineering",
-              "testsLabel": "21 Tests",
+              "subtitle": "VIT Engineering Entrance Exam Papers",
+              "testsLabel": "16 Tests",
               "icon": "fa-solid fa-flask",
               "homePath": "examsnetapp/engineering/home/viteee/"
             }
@@ -130,15 +138,15 @@
         {
           "id": "ssc",
           "active": true,
-          "title": "SSC",
-          "subtitle": "CGL, CHSL and govt exams",
+          "title": "SSC Exams",
+          "subtitle": "CGL, CHSL, Stenographer, and other SSC exams",
           "expanded": false,
           "icon": "fa-solid fa-shield-halved",
           "exams": [
             {
               "id": "ssc-cgl",
               "title": "SSC CGL",
-              "subtitle": "SSC CGL Exam Resources",
+              "subtitle": "SSC CGL Exam Papers",
               "testsLabel": "238 Tests",
               "icon": "fa-solid fa-building-shield",
               "homePath": "examsnetapp/ssc/home/cgl/"
@@ -146,7 +154,7 @@
             {
               "id": "ssc-chsl",
               "title": "SSC CHSL",
-              "subtitle": "SSC CHSL Exam Resources",
+              "subtitle": "SSC CHSL Exam Papers",
               "testsLabel": "174 Tests",
               "icon": "fa-solid fa-building-shield",
               "homePath": "examsnetapp/ssc/home/chsl/"
@@ -157,51 +165,33 @@
           "id": "rrb",
           "active": true,
           "title": "RRB Exams",
-          "subtitle": "RRB Related Exams",
+          "subtitle": "ALP, NTPC, Group D, and other Railway exams",
           "expanded": false,
           "icon": "fa-solid fa-shield-halved",
           "exams": [
             {
+              "id": "rrb-alp",
+              "title": "RRB ALP",
+              "subtitle": "RRB ALP Exam Papers",
+              "testsLabel": "52 Tests",
+              "icon": "fa-solid fa-building-shield",
+              "homePath": "examsnetapp/rrb/home/rrbalp/"
+            },
+            {
               "id": "rrb-groupd",
-              "title": "RRB Group-D",
-              "subtitle": "RRB Group D Exam",
+              "title": "RRB Group D",
+              "subtitle": "RRB Group D Exam Papers",
               "testsLabel": "148 Tests",
               "icon": "fa-solid fa-building-shield",
               "homePath": "examsnetapp/rrb/home/groupd/"
             },
             {
               "id": "rrb-ntpc",
-              "title": "RRB NTPC Exam",
-              "subtitle": "RRB NTPC Exam",
+              "title": "RRB NTPC",
+              "subtitle": "RRB NTPC Exam Papers",
               "testsLabel": "91 Tests",
               "icon": "fa-solid fa-building-shield",
               "homePath": "examsnetapp/rrb/home/rrbntpc/"
-            },
-            {
-              "id": "rrb-alp",
-              "title": "RRB ALP Exam",
-              "subtitle": "RRB ALP Exam",
-              "testsLabel": "52 Tests",
-              "icon": "fa-solid fa-building-shield",
-              "homePath": "examsnetapp/rrb/home/rrbalp/"
-            }
-          ]
-        },
-        {
-          "id": "hidden-sample-category",
-          "active": false,
-          "title": "Hidden Sample Category",
-          "subtitle": "This category is hidden when active is false",
-          "expanded": false,
-          "icon": "fa-solid fa-eye-slash",
-          "exams": [
-            {
-              "id": "hidden-sample-exam",
-              "title": "Hidden Sample Exam",
-              "subtitle": "This exam should not render",
-              "testsLabel": "0 Tests",
-              "icon": "fa-solid fa-ban",
-              "homePath": "examsnetapp/hidden-sample/"
             }
           ]
         },
@@ -209,14 +199,14 @@
           "id": "teacher-exams",
           "active": true,
           "title": "Teacher Exams",
-          "subtitle": "Teacher Eligibility Exams",
+          "subtitle": "CTET, UGC NET, and other teaching exams",
           "expanded": false,
           "icon": "fa-solid fa-chalkboard-user",
           "exams": [
             {
               "id": "teacher-ctet",
               "title": "CTET",
-              "subtitle": "Central Teacher Eligibility Test",
+              "subtitle": "CTET 1 and CTET 2 Exam Papers",
               "testsLabel": "241 Tests",
               "icon": "fa-solid fa-user-graduate",
               "homePath": "examsnetapp/tets/home/ctet/"
@@ -224,7 +214,7 @@
             {
               "id": "teacher-ugcnet",
               "title": "UGC NET",
-              "subtitle": "National Eligibility Test",
+              "subtitle": "UGC NET Exam Papers",
               "testsLabel": "103 Tests",
               "icon": "fa-solid fa-user-pen",
               "homePath": "examsnetapp/tets/home/ugcnet/"
@@ -235,14 +225,14 @@
           "id": "defence-exams",
           "active": true,
           "title": "Defence Exams",
-          "subtitle": "Armed forces preparation",
+          "subtitle": "AFCAT and other defence entrance exams",
           "expanded": false,
           "icon": "fa-solid fa-shield",
           "exams": [
             {
               "id": "defence-afcat",
               "title": "AFCAT",
-              "subtitle": "Air Force Common Admission Test",
+              "subtitle": "AFCAT Exam Papers",
               "testsLabel": "36 Tests",
               "icon": "fa-solid fa-jet-fighter",
               "homePath": "examsnetapp/defence/home/afcat/"
@@ -250,130 +240,54 @@
           ]
         },
         {
+          "id": "upsc-exams",
+          "active": true,
+          "title": "UPSC Exams",
+          "subtitle": "Civils, CDS, NDA, and other UPSC exams",
+          "expanded": false,
+          "icon": "fa-solid fa-shield",
+          "exams": [
+            {
+              "id": "upsc-cds",
+              "title": "UPSC CDS",
+              "subtitle": "CDS Exam Papers",
+              "testsLabel": "194 Tests",
+              "icon": "fa-solid fa-jet-fighter",
+              "homePath": "examsnetapp/upsc/home/cds/"
+            },
+            {
+              "id": "upsc-civils",
+              "title": "UPSC Civil Services",
+              "subtitle": "UPSC Civils Exam Papers",
+              "testsLabel": "194 Tests",
+              "icon": "fa-solid fa-jet-fighter",
+              "homePath": "examsnetapp/upsc/home/civils/"
+            },
+            {
+              "id": "upsc-nda",
+              "title": "UPSC NDA",
+              "subtitle": "NDA Exam Papers",
+              "testsLabel": "169 Tests",
+              "icon": "fa-solid fa-jet-fighter",
+              "homePath": "examsnetapp/upsc/home/nda/"
+            }
+          ]
+        },
+        {
           "id": "board-exams",
           "active": true,
           "title": "Board Exams",
-          "subtitle": "State and central boards",
+          "subtitle": "Central and state board exams",
           "expanded": false,
           "icon": "fa-solid fa-school",
           "exams": [
             {
               "id": "board-cbse",
-              "title": "CBSE",
-              "subtitle": "CBSE Previous Papers and Resources",
+              "title": "CBSE Board",
+              "subtitle": "CBSE Exam Papers",
               "testsLabel": "Tests",
               "icon": "fa-solid fa-book-open-reader",
               "homePath": "examsnetapp/board/home/cbse/"
-            }
-          ]
-        },
-        {
-          "id": "certification-exams",
-          "active": true,
-          "title": "Certifications",
-          "subtitle": "Professional certification exams",
-          "expanded": false,
-          "icon": "fa-solid fa-certificate",
-          "exams": [
-            {
-              "id": "cert-capm",
-              "title": "CAPM",
-              "subtitle": "Certified Associate in Project Management",
-              "testsLabel": "Tests",
-              "icon": "fa-solid fa-award",
-              "homePath": "examsnetapp/certification/home/capm/"
-            },
-            {
-              "id": "cert-cisco",
-              "title": "Cisco",
-              "subtitle": "Cisco Certification Practice",
-              "testsLabel": "Tests",
-              "icon": "fa-solid fa-network-wired",
-              "homePath": "examsnetapp/certification/home/cisco/"
-            },
-            {
-              "id": "cert-cissp",
-              "title": "CISSP",
-              "subtitle": "Security Certification Practice",
-              "testsLabel": "Tests",
-              "icon": "fa-solid fa-user-lock",
-              "homePath": "examsnetapp/certification/home/cissp/"
-            },
-            {
-              "id": "cert-comptia",
-              "title": "CompTIA",
-              "subtitle": "CompTIA Certification Practice",
-              "testsLabel": "Tests",
-              "icon": "fa-solid fa-laptop-code",
-              "homePath": "examsnetapp/certification/home/comptia/"
-            },
-            {
-              "id": "cert-itil",
-              "title": "ITIL",
-              "subtitle": "ITIL Certification Practice",
-              "testsLabel": "Tests",
-              "icon": "fa-solid fa-screwdriver-wrench",
-              "homePath": "examsnetapp/certification/home/itil/"
-            },
-            {
-              "id": "cert-pmp",
-              "title": "PMP",
-              "subtitle": "Project Management Professional",
-              "testsLabel": "Tests",
-              "icon": "fa-solid fa-diagram-project",
-              "homePath": "examsnetapp/certification/home/pmp/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "study-notes",
-      "active": true,
-      "title": "Study Notes",
-      "emptyMessage": "No matching notes categories found.",
-      "categories": [
-        {
-          "id": "engineering-notes",
-          "active": true,
-          "title": "Engineering Notes",
-          "subtitle": "Quick revision notes",
-          "expanded": false,
-          "icon": "fa-solid fa-book-open",
-          "exams": [
-            {
-              "id": "jee-physics-notes",
-              "title": "Physics Notes",
-              "subtitle": "JEE Main Notes",
-              "testsLabel": "42 Notes",
-              "icon": "fa-solid fa-atom",
-              "homePath": "examsnetapp/notes/jee/physics/"
-            },
-            {
-              "id": "jee-chem-notes",
-              "title": "Chemistry Notes",
-              "subtitle": "JEE Main Notes",
-              "testsLabel": "38 Notes",
-              "icon": "fa-solid fa-flask",
-              "homePath": "examsnetapp/notes/jee/chemistry/"
-            }
-          ]
-        },
-        {
-          "id": "medical-notes",
-          "active": true,
-          "title": "Medical Notes",
-          "subtitle": "NEET chapter-wise notes",
-          "expanded": false,
-          "icon": "fa-solid fa-notes-medical",
-          "exams": [
-            {
-              "id": "neet-botany-notes",
-              "title": "Botany Notes",
-              "subtitle": "NEET Notes",
-              "testsLabel": "24 Notes",
-              "icon": "fa-solid fa-seedling",
-              "homePath": "examsnetapp/notes/neet/botany/"
             }
           ]
         }

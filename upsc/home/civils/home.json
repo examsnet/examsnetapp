@@ -1,0 +1,141 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Practice Exams",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "expand": true,
+      "subjects": [
+        {
+          "subjecttitle": "UPSC Civils Papers",
+          "slogo": "fa-solid fa-user-shield",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "UPSC Civils Papers",
+              "chapterpath": "examsnetapp/upsc/civils/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA2",
+              "datatype": "exams",
+              "active": true,
+
+              "common": false,
+              "subjectKeys": [
+                "UPSC"
+              ],
+              "totalTests": 15,
+              "testsLabel": "15 Tests",
+              "badgeText": "15 Tests"
+            }
+             
+          ]
+        } 
+      ]
+    },
+    {
+      "categorytitle": "Study Material",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "subjects": [
+        {
+          "subjecttitle": "General Studies",
+          "slogo": "fa-solid fa-book",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "Biology",
+              "chapterpath": "gdrive/study/generalstudies/biology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA0",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Chemistry",
+              "chapterpath": "gdrive/study/generalstudies/chemistry/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA1",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Environment Ecology",
+              "chapterpath": "gdrive/study/generalstudies/environmentecology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA2",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "History",
+              "chapterpath": "gdrive/study/generalstudies/history/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA3",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "India and World Geography",
+              "chapterpath": "gdrive/study/generalstudies/indiaandworldgeography/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA4",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Indian Economy",
+              "chapterpath": "gdrive/study/generalstudies/indianeconomy/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA5",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Indian Politics",
+              "chapterpath": "gdrive/study/generalstudies/indianpolitics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA6",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Physics",
+              "chapterpath": "gdrive/study/generalstudies/physics/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA7",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "Science and Technology",
+              "chapterpath": "gdrive/study/generalstudies/scienceandtechnology/",
+              "clogo": "fa-solid fa-book-open",
+              "savekey": "EXA8",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}

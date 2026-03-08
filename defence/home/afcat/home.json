@@ -19,7 +19,13 @@
               "savekey": "BA2",
               "datatype": "exams",
               "active": true,
-              "common": false
+              "common": false,
+              "subjectKeys": [
+                "AFCAT"
+              ],
+              "totalTests": 36,
+              "testsLabel": "36 Tests",
+              "badgeText": "36 Tests"
             }
           ]
         }

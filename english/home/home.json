@@ -16,187 +16,301 @@
           "chapters": [
             {
               "chaptertitle": "Antonyms Tests",
-              "chapterpath": "exams/english/antonyms/",
+              "chapterpath": "examsnetapp/english/antonyms/",
               "clogo": "fa-solid fa-pen",
               "savekey": "EN1",
               "datatype": "exams",
               "expand": true,
               "active": true,
-              "common": true
+              "common": true,
+              "subjectKeys": [
+                "ENGLISH"
+              ],
+              "totalTests": 66,
+              "testsLabel": "66 Tests",
+              "badgeText": "66 Tests"
             },
             {
               "chaptertitle": "Synonyms Tests",
-              "chapterpath": "exams/english/synonyms/",
+              "chapterpath": "examsnetapp/english/synonyms/",
               "clogo": "fa-solid fa-pen",
               "savekey": "EN2",
               "datatype": "exams",
               "expand": true,
               "active": true,
-              "common": true
+              "common": true,
+              "subjectKeys": [
+                "ENGLISH"
+              ],
+              "totalTests": 66,
+              "testsLabel": "66 Tests",
+              "badgeText": "66 Tests"
             },
             {
               "chaptertitle": "Spelling Check Tests",
-              "chapterpath": "exams/english/spelling/",
+              "chapterpath": "examsnetapp/english/spelling/",
               "clogo": "fa-solid fa-pen",
               "savekey": "EN3",
               "datatype": "exams",
               "expand": true,
               "active": true,
-              "common": true
+              "common": true,
+              "subjectKeys": [
+                "ENGLISH"
+              ],
+              "totalTests": 66,
+              "testsLabel": "66 Tests",
+              "badgeText": "66 Tests"
             },
             {
               "chaptertitle": "Spotting Errors",
-              "chapterpath": "exams/english/errors/",
+              "chapterpath": "examsnetapp/english/errors/",
               "clogo": "fa-solid fa-pen",
               "savekey": "EN4",
               "datatype": "exams",
               "expand": true,
               "active": true,
-              "common": true
+              "common": true,
+              "subjectKeys": [
+                "ENGLISH"
+              ],
+              "totalTests": 66,
+              "testsLabel": "66 Tests",
+              "badgeText": "66 Tests"
             },
             {
               "chaptertitle": "One Word Substitutes",
-              "chapterpath": "exams/english/oneword/",
+              "chapterpath": "examsnetapp/english/oneword/",
               "clogo": "fa-solid fa-pen",
               "savekey": "EN5",
               "datatype": "exams",
               "expand": true,
               "active": true,
-              "common": true
+              "common": true,
+              "subjectKeys": [
+                "ENGLISH"
+              ],
+              "totalTests": 66,
+              "testsLabel": "66 Tests",
+              "badgeText": "66 Tests"
             },
             {
               "chaptertitle": "Selecting Words",
-              "chapterpath": "exams/english/selecting/",
+              "chapterpath": "examsnetapp/english/selecting/",
               "clogo": "fa-solid fa-pen",
               "savekey": "EN6",
               "datatype": "exams",
               "expand": true,
               "active": true,
-              "common": true
+              "common": true,
+              "subjectKeys": [
+                "ENGLISH"
+              ],
+              "totalTests": 66,
+              "testsLabel": "66 Tests",
+              "badgeText": "66 Tests"
             },
             {
               "chaptertitle": "Sentence Correction",
-              "chapterpath": "exams/english/correction/",
+              "chapterpath": "examsnetapp/english/correction/",
               "clogo": "fa-solid fa-pen",
               "savekey": "EN7",
               "datatype": "exams",
-              "common": true
+              "common": true,
+              "subjectKeys": [
+                "ENGLISH"
+              ],
+              "totalTests": 66,
+              "testsLabel": "66 Tests",
+              "badgeText": "66 Tests"
             },
             {
               "chaptertitle": "Idioms and Phrases",
-              "chapterpath": "exams/english/idioms/",
+              "chapterpath": "examsnetapp/english/idioms/",
               "clogo": "fa-solid fa-pen",
               "savekey": "EN8",
               "datatype": "exams",
               "expand": true,
               "active": true,
-              "common": true
+              "common": true,
+              "subjectKeys": [
+                "ENGLISH"
+              ],
+              "totalTests": 66,
+              "testsLabel": "66 Tests",
+              "badgeText": "66 Tests"
             },
             {
               "chaptertitle": "Sentence Improvement",
-              "chapterpath": "exams/english/improvement/",
+              "chapterpath": "examsnetapp/english/improvement/",
               "clogo": "fa-solid fa-pen",
               "savekey": "EN9",
               "datatype": "exams",
-              "common": true
+              "common": true,
+              "subjectKeys": [
+                "ENGLISH"
+              ],
+              "totalTests": 66,
+              "testsLabel": "66 Tests",
+              "badgeText": "66 Tests"
             },
             {
               "chaptertitle": "Grammar Online",
-              "chapterpath": "exams/english/grammar/",
+              "chapterpath": "examsnetapp/english/grammar/",
               "clogo": "fa-solid fa-pen",
               "savekey": "EN10",
               "datatype": "exams",
-              "common": true
+              "common": true,
+              "subjectKeys": [
+                "ENGLISH"
+              ],
+              "totalTests": 66,
+              "testsLabel": "66 Tests",
+              "badgeText": "66 Tests"
             },
             {
               "chaptertitle": "Common Error Detection",
-              "chapterpath": "exams/english/commonerror/",
+              "chapterpath": "examsnetapp/english/commonerror/",
               "clogo": "fa-solid fa-pen",
               "savekey": "EN11",
               "datatype": "exams",
               "expand": true,
               "active": true,
-              "common": true
+              "common": true,
+              "subjectKeys": [
+                "ENGLISH"
+              ],
+              "totalTests": 66,
+              "testsLabel": "66 Tests",
+              "badgeText": "66 Tests"
             },
             {
               "chaptertitle": "Sentence Completion",
-              "chapterpath": "exams/english/completion/",
+              "chapterpath": "examsnetapp/english/completion/",
               "clogo": "fa-solid fa-pen",
               "savekey": "EN12",
               "datatype": "exams",
               "expand": true,
               "active": true,
-              "common": true
+              "common": true,
+              "subjectKeys": [
+                "ENGLISH"
+              ],
+              "totalTests": 66,
+              "testsLabel": "66 Tests",
+              "badgeText": "66 Tests"
             },
             {
               "chaptertitle": "Direct and Indirect Speech",
-              "chapterpath": "exams/english/speech/",
+              "chapterpath": "examsnetapp/english/speech/",
               "clogo": "fa-solid fa-pen",
               "savekey": "EN13",
               "datatype": "exams",
               "expand": true,
               "active": true,
-              "common": true
+              "common": true,
+              "subjectKeys": [
+                "ENGLISH"
+              ],
+              "totalTests": 66,
+              "testsLabel": "66 Tests",
+              "badgeText": "66 Tests"
             },
             {
               "chaptertitle": "Ordering Words",
-              "chapterpath": "exams/english/orderingwords/",
+              "chapterpath": "examsnetapp/english/orderingwords/",
               "clogo": "fa-solid fa-pen",
               "savekey": "EN14",
               "datatype": "exams",
               "expand": true,
               "active": true,
-              "common": true
+              "common": true,
+              "subjectKeys": [
+                "ENGLISH"
+              ],
+              "totalTests": 66,
+              "testsLabel": "66 Tests",
+              "badgeText": "66 Tests"
             },
             {
               "chaptertitle": "Ordering Sentences",
-              "chapterpath": "exams/english/orderingsentence/",
+              "chapterpath": "examsnetapp/english/orderingsentence/",
               "clogo": "fa-solid fa-pen",
               "savekey": "EN15",
               "datatype": "exams",
               "expand": true,
               "active": true,
-              "common": true
+              "common": true,
+              "subjectKeys": [
+                "ENGLISH"
+              ],
+              "totalTests": 66,
+              "testsLabel": "66 Tests",
+              "badgeText": "66 Tests"
             },
             {
               "chaptertitle": "Verbal Analogies",
-              "chapterpath": "exams/english/verbal/",
+              "chapterpath": "examsnetapp/english/verbal/",
               "clogo": "fa-solid fa-pen",
               "savekey": "EN16",
               "datatype": "exams",
               "expand": true,
               "active": true,
-              "common": true
+              "common": true,
+              "subjectKeys": [
+                "ENGLISH"
+              ],
+              "totalTests": 66,
+              "testsLabel": "66 Tests",
+              "badgeText": "66 Tests"
             },
             {
               "chaptertitle": "Sentence Formation",
-              "chapterpath": "exams/english/formation/",
+              "chapterpath": "examsnetapp/english/formation/",
               "clogo": "fa-solid fa-pen",
               "savekey": "EN17",
               "datatype": "exams",
               "expand": true,
               "active": true,
-              "common": true
+              "common": true,
+              "subjectKeys": [
+                "ENGLISH"
+              ],
+              "totalTests": 66,
+              "testsLabel": "66 Tests",
+              "badgeText": "66 Tests"
             },
             {
               "chaptertitle": "Completing Statements",
-              "chapterpath": "exams/english/statements/",
+              "chapterpath": "examsnetapp/english/statements/",
               "clogo": "fa-solid fa-pen",
               "savekey": "EN18",
               "datatype": "exams",
               "expand": true,
               "active": true,
-              "common": true
+              "common": true,
+              "subjectKeys": [
+                "ENGLISH"
+              ],
+              "totalTests": 66,
+              "testsLabel": "66 Tests",
+              "badgeText": "66 Tests"
             },
             {
               "chaptertitle": "Change of Speech",
-              "chapterpath": "exams/english/change/",
+              "chapterpath": "examsnetapp/english/change/",
               "clogo": "fa-solid fa-pen",
               "savekey": "EN19",
               "datatype": "exams",
               "expand": true,
               "active": true,
-              "common": true
+              "common": true,
+              "subjectKeys": [
+                "ENGLISH"
+              ],
+              "totalTests": 66,
+              "testsLabel": "66 Tests",
+              "badgeText": "66 Tests"
             }
           ]
         }

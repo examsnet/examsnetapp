@@ -13,15 +13,22 @@
           "subjecttitle": "KCET Papers",
           "slogo": "fa-solid fa-user-group",
           "active": true,
+          "expand": true,
           "chapters": [
             {
               "chaptertitle": "KCET Previous Papers",
-              "chapterpath": "exams/engineering/kcet/",
+              "chapterpath": "examsnetapp/engineering/kcet/",
               "clogo": "fa-solid fa-pen",
               "savekey": "BA10",
               "datatype": "exams",
               "active": true,
-              "common": false
+              "common": false,
+              "subjectKeys": [
+                "KCET"
+              ],
+              "totalTests": 86,
+              "testsLabel": "86 Tests",
+              "badgeText": "86 Tests"
             }
           ]
         }

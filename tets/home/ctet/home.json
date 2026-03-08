@@ -20,7 +20,13 @@
               "savekey": "BA4",
               "datatype": "exams",
               "active": true,
-              "common": false
+              "common": false,
+              "subjectKeys": [
+                "CTETPREV"
+              ],
+              "totalTests": 86,
+              "testsLabel": "86 Tests",
+              "badgeText": "86 Tests"
             },
             {
               "chaptertitle": "CTET 2 Maths Science Past Papers",
@@ -29,7 +35,13 @@
               "savekey": "BA5",
               "datatype": "exams",
               "active": true,
-              "common": false
+              "common": false,
+              "subjectKeys": [
+                "CTET2MATHS"
+              ],
+              "totalTests": 78,
+              "testsLabel": "78 Tests",
+              "badgeText": "78 Tests"
             },
             {
               "chaptertitle": "CTET 2 Social Science Past Papers ",
@@ -38,7 +50,13 @@
               "savekey": "BA6",
               "datatype": "exams",
               "active": true,
-              "common": false
+              "common": false,
+              "subjectKeys": [
+                "CTET2SOCIAL"
+              ],
+              "totalTests": 77,
+              "testsLabel": "77 Tests",
+              "badgeText": "77 Tests"
             }
           ]
         }
@@ -56,7 +74,7 @@
           "chapters": [
             {
               "chaptertitle": "Child Development & Pedagogy",
-              "chapterpath": "examsnetapp/study/ctet/pedagogy/",
+              "chapterpath": "examsnetapp/gdrive/study/ctet/pedagogy/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA0",
               "datatype": "link",
@@ -66,7 +84,7 @@
           ]
         }
       ]
-    } 
+    }
   ],
   "products": {
     "parentType": "product",
