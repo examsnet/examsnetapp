@@ -13,6 +13,7 @@
           "subjecttitle": "RRB NTPC Papers",
           "slogo": "fa-solid fa-train-subway",
           "active": true,
+          "expand": true,
           "chapters": [
             {
               "chaptertitle": "RRB NTPC Exam Model Papers",

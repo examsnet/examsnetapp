@@ -9,7 +9,7 @@
     "active": true,
     "items": [
       {
-        "value": "21",
+        "value": "23",
         "label": "Exams"
       },
       {
@@ -111,7 +111,7 @@
             },
             {
               "id": "eamcet",
-              "title": "EAMCET or EAPCET",
+              "title": "EAMCET orEAPCET",
               "subtitle": "AP and TS EAMCET Papers",
               "testsLabel": "256 Tests",
               "icon": "fa-solid fa-graduation-cap",
@@ -288,6 +288,50 @@
               "testsLabel": "Tests",
               "icon": "fa-solid fa-book-open-reader",
               "homePath": "examsnetapp/board/home/cbse/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "study-material",
+      "active": true,
+      "title": "Study Material",
+      "emptyMessage": "No matching exam categories found.",
+      "categories": [
+        {
+          "id": "ncertbooks",
+          "active": true,
+          "title": "NCERT Related",
+          "subtitle": "CBSE, Exempler, Notes, Solutions and more",
+          "expanded": false,
+          "icon": "fa-solid fa-microchip",
+          "exams": [
+            {
+              "id": "jee-advanced",
+              "title": "NCERT Material",
+              "subtitle": "NCERT Material",
+              "testsLabel": "Resources",
+              "icon": "fa-solid fa-graduation-cap",
+              "homePath": "examsnetapp/gdrive/home/ncert/"
+            }
+          ]
+        },
+        {
+          "id": "general-books",
+          "active": true,
+          "title": "General Books",
+          "subtitle": "History, Geography, Polity, Economy, Science, and more",
+          "expanded": false,
+          "icon": "fa-solid fa-heart-pulse",
+          "exams": [
+            {
+              "id": "general-studies",
+              "title": "General Studies",
+              "subtitle": "General Studies materials for various subjects",
+              "testsLabel": "Resources",
+              "icon": "fa-solid fa-stethoscope",
+              "homePath": "examsnetapp/gdrive/home/generalstudies/"
             }
           ]
         }

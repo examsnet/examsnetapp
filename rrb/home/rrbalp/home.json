@@ -13,6 +13,7 @@
           "subjecttitle": "RRB ALP Papers",
           "slogo": "fa-solid fa-train-subway",
           "active": true,
+          "expand": true,
           "chapters": [
             {
               "chaptertitle": "RRB ALP Previous Papers",
