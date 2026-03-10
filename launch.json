@@ -84,7 +84,7 @@
               "homePath": "examsnetapp/medical/home/aipmt/"
             },
             {
-              "id": "eamcetmedical",
+              "id": "eamcet-medical",
               "title": "EAMCET Medical",
               "subtitle": "EAMCET Medical Exam Papers",
               "testsLabel": "18 Tests",
@@ -102,7 +102,7 @@
           "icon": "fa-solid fa-microchip",
           "exams": [
             {
-              "id": "bitsat",
+              "id": "eng-bitsat",
               "title": "BITSAT",
               "subtitle": "BITSAT Exam Papers",
               "testsLabel": "21 Tests",
@@ -110,7 +110,7 @@
               "homePath": "examsnetapp/engineering/home/bitsat/"
             },
             {
-              "id": "eamcet",
+              "id": "eng-eamcet",
               "title": "EAMCET orEAPCET",
               "subtitle": "AP and TS EAMCET Papers",
               "testsLabel": "256 Tests",
@@ -118,7 +118,7 @@
               "homePath": "examsnetapp/engineering/home/eamcet/"
             },
             {
-              "id": "kcet",
+              "id": "eng-kcet",
               "title": "KCET",
               "subtitle": "KCET Exam Papers",
               "testsLabel": "86 Tests",
@@ -126,7 +126,7 @@
               "homePath": "examsnetapp/engineering/home/kcet/"
             },
             {
-              "id": "viteee",
+              "id": "eng-viteee",
               "title": "VITEEE",
               "subtitle": "VIT Engineering Entrance Exam Papers",
               "testsLabel": "16 Tests",
@@ -308,7 +308,7 @@
           "icon": "fa-solid fa-microchip",
           "exams": [
             {
-              "id": "jee-advanced",
+              "id": "cbse-material",
               "title": "CBSE Material",
               "subtitle": "CBSE Material",
               "testsLabel": "Resources",

@@ -11,8 +11,8 @@
         {
           "subjecttitle": "UGCNET Papers",
           "slogo": "fa-solid fa-user-shield",
-            "active": true,
-            "expand": true,
+          "active": true,
+          "expand": true,
           "chapters": [
             {
               "chaptertitle": "UGCNET 1 Previous Papers",

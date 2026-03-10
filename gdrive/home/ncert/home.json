@@ -3,7 +3,7 @@
   "searchBar": {
     "active": true
   },
-  "categories": [ 
+  "categories": [
     {
       "categorytitle": "CBSE Concepts",
       "elogo": "fa-solid fa-file-pen",
@@ -1964,7 +1964,7 @@
     {
       "categorytitle": "NCERT Exemplar Solutions",
       "elogo": "fas fa-file-pdf",
-      "active":false,
+      "active": false,
       "subjects": [
         {
           "subjecttitle": "Class 10 Exemplar Solutions",

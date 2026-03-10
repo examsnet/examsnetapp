@@ -11,8 +11,8 @@
         {
           "subjecttitle": "AFCAT Papers",
           "slogo": "fa-solid fa-user-shield",
-            "active": true,
-            "expand": true,
+          "active": true,
+          "expand": true,
           "chapters": [
             {
               "chaptertitle": "AFCAT Previous Papers",

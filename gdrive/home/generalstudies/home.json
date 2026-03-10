@@ -4,7 +4,6 @@
     "active": true
   },
   "categories": [
-    
     {
       "categorytitle": "Study Material",
       "elogo": "fa-solid fa-file-pen",
@@ -104,7 +103,6 @@
           "slogo": "fa-solid fa-book",
           "active": true,
           "chapters": [
-             
             {
               "chaptertitle": "Child Development & Pedagogy",
               "chapterpath": "examsnetapp/gdrive/study/ctet/pedagogy/",
