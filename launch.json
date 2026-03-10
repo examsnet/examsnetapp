@@ -302,15 +302,15 @@
         {
           "id": "ncertbooks",
           "active": true,
-          "title": "NCERT Related",
+          "title": "CBSE Related",
           "subtitle": "CBSE, Exempler, Notes, Solutions and more",
           "expanded": false,
           "icon": "fa-solid fa-microchip",
           "exams": [
             {
               "id": "jee-advanced",
-              "title": "NCERT Material",
-              "subtitle": "NCERT Material",
+              "title": "CBSE Material",
+              "subtitle": "CBSE Material",
               "testsLabel": "Resources",
               "icon": "fa-solid fa-graduation-cap",
               "homePath": "examsnetapp/gdrive/home/ncert/"
@@ -320,7 +320,7 @@
         {
           "id": "general-books",
           "active": true,
-          "title": "General Books",
+          "title": "General Studies",
           "subtitle": "History, Geography, Polity, Economy, Science, and more",
           "expanded": false,
           "icon": "fa-solid fa-heart-pulse",
