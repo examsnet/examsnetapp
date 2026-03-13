@@ -1846,7 +1846,7 @@
     {
       "categorytitle": "NCERT Exemplar Books",
       "elogo": "fas fa-file-pdf",
-      "active": false,
+      "active": true,
       "subjects": [
         {
           "subjecttitle": "NCERT Class 10 Exemplar",
@@ -1964,7 +1964,7 @@
     {
       "categorytitle": "NCERT Exemplar Solutions",
       "elogo": "fas fa-file-pdf",
-      "active": false,
+      "active": true,
       "subjects": [
         {
           "subjecttitle": "Class 10 Exemplar Solutions",
@@ -2082,7 +2082,7 @@
     {
       "categorytitle": "NCERT Notes",
       "elogo": "fas fa-file-pdf",
-      "active": false,
+      "active": true,
       "subjects": [
         {
           "subjecttitle": "NCERT Class 10 Notes",
