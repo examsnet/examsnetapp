@@ -149,7 +149,7 @@
           "chapters": [
             {
               "chaptertitle": "Number System",
-              "chapterpath": "notes/aptitude/numbers/",
+              "chapterpath": "examsnetapp/notes/aptitude/numbers/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA0",
               "datatype": "notes",
@@ -158,7 +158,7 @@
             },
             {
               "chaptertitle": "Basic Arithmetic",
-              "chapterpath": "notes/aptitude/arithmetic/",
+              "chapterpath": "examsnetapp/notes/aptitude/arithmetic/",
               "clogo": "fa-solid fa-book-open",
               "savekey": "EXA0",
               "datatype": "notes",
