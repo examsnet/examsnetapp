@@ -39,14 +39,14 @@
           "title": "JEE Exams",
           "subtitle": "JEE Main, JEE Advanced, AIEEE, and more",
           "expanded": false,
-          "icon": "fa-solid fa-microchip",
+          "icon": "fa-solid fa-atom",
           "exams": [
             {
               "id": "jee-advanced",
               "title": "JEE Advanced",
               "subtitle": "JEE Advanced Exam Papers",
               "testsLabel": "170 Tests",
-              "icon": "fa-solid fa-graduation-cap",
+              "icon": "fa-solid fa-user-graduate",
               "homePath": "examsnetapp/jee/home/adv/"
             },
             {
@@ -65,7 +65,7 @@
           "title": "Medical Exams",
           "subtitle": "NEET, AIPMT, EAMCET, and more",
           "expanded": false,
-          "icon": "fa-solid fa-heart-pulse",
+          "icon": "fa-solid fa-stethoscope",
           "exams": [
             {
               "id": "neet",
@@ -88,7 +88,7 @@
               "title": "EAMCET Medical",
               "subtitle": "EAMCET Medical Exam Papers",
               "testsLabel": "18 Tests",
-              "icon": "fa-solid fa-user-doctor",
+              "icon": "fa-solid fa-heart-pulse",
               "homePath": "examsnetapp/medical/home/eamcet/"
             }
           ]
@@ -99,22 +99,22 @@
           "title": "Engineering Exams",
           "subtitle": "BITSAT, EAMCET, KCET, VITEEE, and more",
           "expanded": false,
-          "icon": "fa-solid fa-microchip",
+          "icon": "fa-solid fa-gears",
           "exams": [
             {
               "id": "eng-bitsat",
               "title": "BITSAT",
               "subtitle": "BITSAT Exam Papers",
               "testsLabel": "21 Tests",
-              "icon": "fa-regular fa-lightbulb",
+              "icon": "fa-solid fa-lightbulb",
               "homePath": "examsnetapp/engineering/home/bitsat/"
             },
             {
               "id": "eng-eamcet",
-              "title": "EAMCET orEAPCET",
+              "title": "EAMCET or EAPCET",
               "subtitle": "AP and TS EAMCET Papers",
               "testsLabel": "256 Tests",
-              "icon": "fa-solid fa-graduation-cap",
+              "icon": "fa-solid fa-gears",
               "homePath": "examsnetapp/engineering/home/eamcet/"
             },
             {
@@ -122,7 +122,7 @@
               "title": "KCET",
               "subtitle": "KCET Exam Papers",
               "testsLabel": "86 Tests",
-              "icon": "fa-solid fa-flask",
+              "icon": "fa-solid fa-compass-drafting",
               "homePath": "examsnetapp/engineering/home/kcet/"
             },
             {
@@ -130,7 +130,7 @@
               "title": "VITEEE",
               "subtitle": "VIT Engineering Entrance Exam Papers",
               "testsLabel": "16 Tests",
-              "icon": "fa-solid fa-flask",
+              "icon": "fa-solid fa-microchip",
               "homePath": "examsnetapp/engineering/home/viteee/"
             }
           ]
@@ -141,14 +141,14 @@
           "title": "SSC Exams",
           "subtitle": "CGL, CHSL, Stenographer, and other SSC exams",
           "expanded": false,
-          "icon": "fa-solid fa-shield-halved",
+          "icon": "fa-solid fa-users-gear",
           "exams": [
             {
               "id": "ssc-cgl",
               "title": "SSC CGL",
               "subtitle": "SSC CGL Exam Papers",
               "testsLabel": "238 Tests",
-              "icon": "fa-solid fa-building-shield",
+              "icon": "fa-solid fa-file-lines",
               "homePath": "examsnetapp/ssc/home/cgl/"
             },
             {
@@ -156,7 +156,7 @@
               "title": "SSC CHSL",
               "subtitle": "SSC CHSL Exam Papers",
               "testsLabel": "174 Tests",
-              "icon": "fa-solid fa-building-shield",
+              "icon": "fa-solid fa-file-lines",
               "homePath": "examsnetapp/ssc/home/chsl/"
             }
           ]
@@ -167,14 +167,14 @@
           "title": "RRB Exams",
           "subtitle": "ALP, NTPC, Group D, and other Railway exams",
           "expanded": false,
-          "icon": "fa-solid fa-shield-halved",
+          "icon": "fa-solid fa-train",
           "exams": [
             {
               "id": "rrb-alp",
               "title": "RRB ALP",
               "subtitle": "RRB ALP Exam Papers",
               "testsLabel": "52 Tests",
-              "icon": "fa-solid fa-building-shield",
+              "icon": "fa-solid fa-train",
               "homePath": "examsnetapp/rrb/home/rrbalp/"
             },
             {
@@ -182,7 +182,7 @@
               "title": "RRB Group D",
               "subtitle": "RRB Group D Exam Papers",
               "testsLabel": "148 Tests",
-              "icon": "fa-solid fa-building-shield",
+              "icon": "fa-solid fa-train",
               "homePath": "examsnetapp/rrb/home/groupd/"
             },
             {
@@ -190,7 +190,7 @@
               "title": "RRB NTPC",
               "subtitle": "RRB NTPC Exam Papers",
               "testsLabel": "91 Tests",
-              "icon": "fa-solid fa-building-shield",
+              "icon": "fa-solid fa-train",
               "homePath": "examsnetapp/rrb/home/rrbntpc/"
             }
           ]
@@ -227,7 +227,7 @@
           "title": "Defence Exams",
           "subtitle": "AFCAT and other defence entrance exams",
           "expanded": false,
-          "icon": "fa-solid fa-shield",
+          "icon": "fa-solid fa-shield-halved",
           "exams": [
             {
               "id": "defence-afcat",
@@ -245,7 +245,7 @@
           "title": "UPSC Exams",
           "subtitle": "Civils, CDS, NDA, and other UPSC exams",
           "expanded": false,
-          "icon": "fa-solid fa-shield",
+          "icon": "fa-solid fa-landmark-dome",
           "exams": [
             {
               "id": "upsc-cds",
@@ -260,7 +260,7 @@
               "title": "UPSC Civils",
               "subtitle": "UPSC Civils Exam Papers",
               "testsLabel": "57 Tests",
-              "icon": "fa-solid fa-jet-fighter",
+              "icon": "fa-solid fa-landmark-dome",
               "homePath": "examsnetapp/upsc/home/civils/"
             },
             {
@@ -286,7 +286,7 @@
               "title": "CBSE Board",
               "subtitle": "CBSE Exam Papers",
               "testsLabel": "Tests",
-              "icon": "fa-solid fa-book-open-reader",
+              "icon": "fa-solid fa-book-open",
               "homePath": "examsnetapp/board/home/cbse/"
             }
           ]
@@ -305,14 +305,14 @@
           "title": "CBSE Related",
           "subtitle": "CBSE, Exempler, Notes, Solutions and more",
           "expanded": false,
-          "icon": "fa-solid fa-microchip",
+          "icon": "fa-solid fa-book-open",
           "exams": [
             {
               "id": "cbse-material",
               "title": "CBSE Material",
               "subtitle": "CBSE Material",
               "testsLabel": "Resources",
-              "icon": "fa-solid fa-graduation-cap",
+              "icon": "fa-solid fa-book-open-reader",
               "homePath": "examsnetapp/gdrive/home/ncert/"
             }
           ]
@@ -323,14 +323,14 @@
           "title": "General Studies",
           "subtitle": "History, Geography, Polity, Economy, Science, and more",
           "expanded": false,
-          "icon": "fa-solid fa-heart-pulse",
+          "icon": "fa-solid fa-book-open",
           "exams": [
             {
               "id": "general-studies",
               "title": "General Studies",
               "subtitle": "General Studies materials for various subjects",
               "testsLabel": "Resources",
-              "icon": "fa-solid fa-stethoscope",
+              "icon": "fa-solid fa-book-open-reader",
               "homePath": "examsnetapp/gdrive/home/generalstudies/"
             }
           ]
