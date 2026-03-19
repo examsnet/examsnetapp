@@ -5,17 +5,16 @@
     "link": "#",
     "type": "home"
   },
-  {
-    "title": "Review App",
-    "icon": "fa-regular fa-star",
+ {
+    "title": "Text Size",
+    "icon": "fa-solid fa-text-height",
     "link": "#",
-    "type": "rate"
-  },
-  {
-    "title": "Share App",
-    "icon": "fa-solid fa-share",
-    "link": "#",
-    "type": "share"
+    "type": "font",
+    "submenu": [
+      {
+        "title": "Adjust app text size"
+      }
+    ]
   },
   {
     "title": "Themes",
@@ -80,6 +79,19 @@
         "color": "#410093"
       }
     ]
+  },
+  
+   {
+    "title": "Review App",
+    "icon": "fa-regular fa-star",
+    "link": "#",
+    "type": "rate"
+  },
+  {
+    "title": "Share App",
+    "icon": "fa-solid fa-share",
+    "link": "#",
+    "type": "share"
   },
   {
     "title": "Social",
