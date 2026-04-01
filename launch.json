@@ -9,7 +9,7 @@
     "active": true,
     "items": [
       {
-        "value": "23",
+        "value": "25",
         "label": "Exams"
       },
       {
@@ -288,6 +288,22 @@
               "testsLabel": "Tests",
               "icon": "fa-solid fa-book-open",
               "homePath": "examsnetapp/board/home/cbse/"
+            },
+            {
+              "id": "board-icse",
+              "title": "ICSE Board",
+              "subtitle": "ICSE Exam Papers",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetapp/board/home/icse/"
+            },
+            {
+              "id": "board-andhra",
+              "title": "Andhra Pradesh Board",
+              "subtitle": "Andhra Pradesh Exam Papers",
+              "testsLabel": "Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetapp/board/home/andhra/"
             }
           ]
         }
