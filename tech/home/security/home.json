@@ -44,7 +44,7 @@
             },
             {
               "chaptertitle": "CCNA Certification Tests",
-              "chapterpath": "examsnetapp/tech/cisco/ccna200",
+              "chapterpath": "examsnetapp/tech/cisco/ccna200/",
               "clogo": "fa-solid fa-pen",
               "savekey": "CISCO",
               "datatype": "exams",
