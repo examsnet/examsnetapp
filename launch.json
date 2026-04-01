@@ -9,11 +9,11 @@
     "active": true,
     "items": [
       {
-        "value": "25",
+        "value": "29",
         "label": "Exams"
       },
       {
-        "value": "2652",
+        "value": "2782",
         "label": "Mock Tests"
       },
       {
@@ -304,6 +304,48 @@
               "testsLabel": "Tests",
               "icon": "fa-solid fa-book-open",
               "homePath": "examsnetapp/board/home/andhra/"
+            }
+          ]
+        },
+        {
+          "id": "certification-exams",
+          "active": true,
+          "title": "Certification Exams",
+          "subtitle": "Professional certification exams",
+          "expanded": false,
+          "icon": "fa-solid fa-graduation-cap",
+          "exams": [
+            {
+              "id": "tech-certification",
+              "title": "Technical Certification",
+              "subtitle": "Java, TOGAF etc.",
+              "testsLabel": "36 Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetapp/tech/home/tech/"
+            },
+            {
+              "id": "manage-certification",
+              "title": "Management Certification",
+              "subtitle": "PMP, Scrum, PMI-ACP etc",
+              "testsLabel": "56 Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetapp/tech/home/manag/"
+            },
+            {
+              "id": "security-certification",
+              "title": "Security Certification",
+              "subtitle": "CISSP, CCNA etc.",
+              "testsLabel": "32 Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetapp/tech/home/security/"
+            },
+            {
+              "id": "other-certification",
+              "title": "Other Certifications",
+              "subtitle": "ITIL and other certifications",
+              "testsLabel": "6 Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetapp/tech/home/other/"
             }
           ]
         }
