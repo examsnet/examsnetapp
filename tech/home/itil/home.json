@@ -1,0 +1,42 @@
+{
+  "searchPlaceholder": "Search papers, notes, resources...",
+  "searchBar": {
+    "active": true
+  },
+  "categories": [
+    {
+      "categorytitle": "Entrance Exams",
+      "elogo": "fa-solid fa-file-pen",
+      "active": true,
+      "subjects": [
+        {
+          "subjecttitle": "ITIL Certification4",
+          "slogo": "fa-solid fa-train",
+          "active": true,
+          "expand": true,
+          "chapters": [
+            {
+              "chaptertitle": "ITIL Cerification Model Papers",
+              "chapterpath": "examsnetapp/tech/itil/",
+              "clogo": "fa-solid fa-pen",
+              "savekey": "BA3",
+              "datatype": "exams",
+              "active": true,
+              "common": false,
+              "subjectKeys": [
+                "itil-foundation-certification"
+              ],
+              "totalTests": 20,
+              "testsLabel": "20 Tests",
+              "badgeText": "20 Tests"
+            } 
+          ]
+        }
+      ]
+    } 
+  ],
+  "products": {
+    "parentType": "product",
+    "items": []
+  }
+}
