@@ -9,11 +9,11 @@
     "active": true,
     "items": [
       {
-        "value": "30",
+        "value": "29",
         "label": "Exams"
       },
       {
-        "value": "2652",
+        "value": "2782",
         "label": "Mock Tests"
       },
       {
@@ -316,60 +316,36 @@
           "icon": "fa-solid fa-graduation-cap",
           "exams": [
             {
-              "id": "itil-certification",
-              "title": "ITIL Certification",
-              "subtitle": "ITIL Exam Papers",
-              "testsLabel": "Tests",
+              "id": "tech-certification",
+              "title": "Technical Certification",
+              "subtitle": "Java, TOGAF etc.",
+              "testsLabel": "36 Tests",
               "icon": "fa-solid fa-book-open",
-              "homePath": "examsnetapp/tech/home/itil/"
+              "homePath": "examsnetapp/tech/home/tech/"
             },
             {
-              "id": "togaf-certification",
-              "title": "TOGAF Certification",
-              "subtitle": "TOGAF Exam Papers",
-              "testsLabel": "Tests",
+              "id": "manage-certification",
+              "title": "Management Certification",
+              "subtitle": "PMP, Scrum, PMI-ACP etc",
+              "testsLabel": "56 Tests",
               "icon": "fa-solid fa-book-open",
-              "homePath": "examsnetapp/tech/home/togaf/"
+              "homePath": "examsnetapp/tech/home/manag/"
             },
             {
-              "id": "pmp-certification",
-              "title": "PMP Certification",
-              "subtitle": "PMP Exam Papers",
-              "testsLabel": "Tests",
+              "id": "security-certification",
+              "title": "Security Certification",
+              "subtitle": "CISSP, CCNA etc.",
+              "testsLabel": "32 Tests",
               "icon": "fa-solid fa-book-open",
-              "homePath": "examsnetapp/tech/home/pmp/"
+              "homePath": "examsnetapp/tech/home/security/"
             },
             {
-              "id": "cisssp-certification",
-              "title": "CISSP Certification",
-              "subtitle": "CISSP Exam Papers",
-              "testsLabel": "Tests",
+              "id": "other-certification",
+              "title": "Other Certifications",
+              "subtitle": "ITIL and other certifications",
+              "testsLabel": "6 Tests",
               "icon": "fa-solid fa-book-open",
-              "homePath": "examsnetapp/tech/home/cisssp/"
-            },
-            {
-              "id": "java-certification",
-              "title": "Java Certification",
-              "subtitle": "Java Exam Papers",
-              "testsLabel": "Tests",
-              "icon": "fa-solid fa-book-open",
-              "homePath": "examsnetapp/tech/home/java/"
-            },
-            {
-              "id": "pmp-certification",
-              "title": "PMP Certification",
-              "subtitle": "PMP Exam Papers",
-              "testsLabel": "Tests",
-              "icon": "fa-solid fa-book-open",
-              "homePath": "examsnetapp/board/home/andhra/"
-            },
-            {
-              "id": "pmp-certification",
-              "title": "PMP Certification",
-              "subtitle": "PMP Exam Papers",
-              "testsLabel": "Tests",
-              "icon": "fa-solid fa-book-open",
-              "homePath": "examsnetapp/board/home/andhra/"
+              "homePath": "examsnetapp/tech/home/other/"
             }
           ]
         }

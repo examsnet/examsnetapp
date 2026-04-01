@@ -24,9 +24,9 @@
               "subjectKeys": [
                 "OCAJP"
               ],
-              "totalTests": 40,
-              "testsLabel": "40 Tests",
-              "badgeText": "40 Tests"
+              "totalTests": 24,
+              "testsLabel": "24 Tests",
+              "badgeText": "24 Tests"
             },
             {
               "chaptertitle": "TOGAF Model Papers",
@@ -38,15 +38,14 @@
               "subjectKeys": [
                 "TOGAF"
               ],
-              "totalTests": 41,
-              "testsLabel": "41 Tests",
-              "badgeText": "41 Tests"
+              "totalTests": 12,
+              "testsLabel": "12 Tests",
+              "badgeText": "12 Tests"
             }
           ]
-        } 
-       
+        }
       ]
-    } 
+    }
   ],
   "products": {
     "parentType": "product",

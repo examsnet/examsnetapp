@@ -24,9 +24,9 @@
               "subjectKeys": [
                 "PMPCERT"
               ],
-              "totalTests": 40,
-              "testsLabel": "40 Tests",
-              "badgeText": "40 Tests"
+              "totalTests": 29,
+              "testsLabel": "29 Tests",
+              "badgeText": "29 Tests"
             },
             {
               "chaptertitle": "SCRUM Certification Papers",
@@ -38,9 +38,9 @@
               "subjectKeys": [
                 "other-certifications"
               ],
-              "totalTests": 41,
-              "testsLabel": "41 Tests",
-              "badgeText": "41 Tests"
+              "totalTests": 10,
+              "testsLabel": "10 Tests",
+              "badgeText": "10 Tests"
             },
             {
               "chaptertitle": "PMI ACP Certification Papers",
@@ -52,15 +52,14 @@
               "subjectKeys": [
                 "other-certifications"
               ],
-              "totalTests": 41,
-              "testsLabel": "41 Tests",
-              "badgeText": "41 Tests"
+              "totalTests": 6,
+              "testsLabel": "6 Tests",
+              "badgeText": "6 Tests"
             }
           ]
-        } 
-       
+        }
       ]
-    } 
+    }
   ],
   "products": {
     "parentType": "product",

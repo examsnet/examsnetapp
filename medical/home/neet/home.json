@@ -148,41 +148,41 @@
           "active": true,
           "chapters": [
             {
-            "chaptertitle": "NEET Biology Class 11 Lecture",
-            "chapterpath": "examsnetapp/gdrive/exams/neet/youtube/class11biology/",
-            "clogo": "fa-brands fa-youtube",
-            "savekey": "EXA0",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "NEET Biology Class 12 Lecture",
-            "chapterpath": "examsnetapp/gdrive/exams/neet/youtube/class12biology/",
-            "clogo": "fa-brands fa-youtube",
-            "savekey": "EXA0",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "NEET Biology Previous Year Solutions",
-            "chapterpath": "examsnetapp/gdrive/exams/neet/youtube/biologysolutions/",
-            "clogo": "fa-brands fa-youtube",
-            "savekey": "EXA0",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          },
-          {
-            "chaptertitle": "NEET Physics Previous Year Solutions",
-            "chapterpath": "examsnetapp/gdrive/exams/neet/youtube/phychemsolutions/",
-            "clogo": "fa-brands fa-youtube",
-            "savekey": "EXA0",
-            "datatype": "link",
-            "active": true,
-            "common": true
-          }
+              "chaptertitle": "NEET Biology Class 11 Lecture",
+              "chapterpath": "examsnetapp/gdrive/exams/neet/youtube/class11biology/",
+              "clogo": "fa-brands fa-youtube",
+              "savekey": "EXA0",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "NEET Biology Class 12 Lecture",
+              "chapterpath": "examsnetapp/gdrive/exams/neet/youtube/class12biology/",
+              "clogo": "fa-brands fa-youtube",
+              "savekey": "EXA0",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "NEET Biology Previous Year Solutions",
+              "chapterpath": "examsnetapp/gdrive/exams/neet/youtube/biologysolutions/",
+              "clogo": "fa-brands fa-youtube",
+              "savekey": "EXA0",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            },
+            {
+              "chaptertitle": "NEET Physics Previous Year Solutions",
+              "chapterpath": "examsnetapp/gdrive/exams/neet/youtube/phychemsolutions/",
+              "clogo": "fa-brands fa-youtube",
+              "savekey": "EXA0",
+              "datatype": "link",
+              "active": true,
+              "common": true
+            }
           ]
         }
       ]
