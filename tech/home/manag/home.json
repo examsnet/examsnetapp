@@ -60,29 +60,5 @@
         }
       ]
     }
-  ],
-  "products": {
-    "parentType": "product",
-    "items": [
-      {
-        "id": "new-product-ad",
-        "active": false,
-        "kind": "image",
-        "priority": 50,
-        "title": "",
-        "subtitle": "",
-        "imageUrl": "https://examsnet.github.io/cde/ads/img/neetbanner.png",
-        "ctaText": "Watch Now",
-        "ctaUrl": "https://www.youtube.com/watch?v=BhUdv__mMBI&list=PLJAZj2grKHUNaUUGhtKZix7XEqtsxccFn",
-        "startDate": "2026-01-01",
-        "endDate": "2026-12-31",
-        "dismissible": true,
-        "backgroundColor": "#f4f7ff",
-        "borderColor": "#5e78ff",
-        "textColor": "#1d2459",
-        "ctaBackgroundColor": "#2d58d8",
-        "ctaTextColor": "#ffffff"
-      }
-    ]
-  }
+  ] 
 }
