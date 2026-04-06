@@ -9,11 +9,11 @@
     "active": true,
     "items": [
       {
-        "value": "25",
+        "value": "29",
         "label": "Exams"
       },
       {
-        "value": "2652",
+        "value": "2782",
         "label": "Mock Tests"
       },
       {
@@ -309,7 +309,7 @@
         },
         {
           "id": "certification-exams",
-          "active": false,
+          "active": true,
           "title": "Certification Exams",
           "subtitle": "Professional certification exams",
           "expanded": false,
@@ -319,7 +319,7 @@
               "id": "tech-certification",
               "title": "Technical Certification",
               "subtitle": "Java, TOGAF etc.",
-              "testsLabel": "Tests",
+              "testsLabel": "36 Tests",
               "icon": "fa-solid fa-book-open",
               "homePath": "examsnetapp/tech/home/tech/"
             },
@@ -327,7 +327,7 @@
               "id": "manage-certification",
               "title": "Management Certification",
               "subtitle": "PMP, Scrum, PMI-ACP etc",
-              "testsLabel": "Tests",
+              "testsLabel": "56 Tests",
               "icon": "fa-solid fa-book-open",
               "homePath": "examsnetapp/tech/home/manag/"
             },
@@ -335,7 +335,7 @@
               "id": "security-certification",
               "title": "Security Certification",
               "subtitle": "CISSP, CCNA etc.",
-              "testsLabel": "Tests",
+              "testsLabel": "32 Tests",
               "icon": "fa-solid fa-book-open",
               "homePath": "examsnetapp/tech/home/security/"
             },
@@ -343,7 +343,7 @@
               "id": "other-certification",
               "title": "Other Certifications",
               "subtitle": "ITIL and other certifications",
-              "testsLabel": "Tests",
+              "testsLabel": "6 Tests",
               "icon": "fa-solid fa-book-open",
               "homePath": "examsnetapp/tech/home/other/"
             }
