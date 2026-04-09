@@ -9,11 +9,11 @@
     "active": true,
     "items": [
       {
-        "value": "29",
+        "value": "31",
         "label": "Exams"
       },
       {
-        "value": "2782",
+        "value": "2880",
         "label": "Mock Tests"
       },
       {
@@ -346,6 +346,32 @@
               "testsLabel": "6 Tests",
               "icon": "fa-solid fa-book-open",
               "homePath": "examsnetapp/tech/home/other/"
+            }
+          ]
+        },
+        {
+          "id": "international-exams",
+          "active": true,
+          "title": "International Exams",
+          "subtitle": "International exams",
+          "expanded": false,
+          "icon": "fa-solid fa-graduation-cap",
+          "exams": [
+            {
+              "id": "gmat-practice",
+              "title": "GRE/GMAT Exams",
+              "subtitle": "GRE and GMAT Tests",
+              "testsLabel": "36 Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetapp/international/home/gregmat/"
+            },
+            {
+              "id": "uk-related-exams",
+              "title": "UK Related Exams",
+              "subtitle": "Driving, Life In UK",
+              "testsLabel": "62 Tests",
+              "icon": "fa-solid fa-book-open",
+              "homePath": "examsnetapp/international/home/lifeinuk/"
             }
           ]
         }
