@@ -9,11 +9,11 @@
     "active": true,
     "items": [
       {
-        "value": "31",
+        "value": "32",
         "label": "Exams"
       },
       {
-        "value": "2880",
+        "value": "2890",
         "label": "Mock Tests"
       },
       {
@@ -105,7 +105,7 @@
               "id": "eng-bitsat",
               "title": "BITSAT",
               "subtitle": "BITSAT Exam Papers",
-              "testsLabel": "21 Tests",
+              "testsLabel": "22 Tests",
               "icon": "fa-solid fa-lightbulb",
               "homePath": "examsnetapp/engineering/home/bitsat/"
             },
@@ -262,6 +262,14 @@
               "testsLabel": "57 Tests",
               "icon": "fa-solid fa-landmark-dome",
               "homePath": "examsnetapp/upsc/home/civils/"
+            },
+            {
+              "id": "upsc-ese",
+              "title": "UPSC ESE",
+              "subtitle": "ESE Exam Papers",
+              "testsLabel": "9 Tests",
+              "icon": "fa-solid fa-jet-fighter",
+              "homePath": "examsnetapp/upsc/home/ese/"
             },
             {
               "id": "upsc-nda",
