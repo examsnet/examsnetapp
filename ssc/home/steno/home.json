@@ -13,6 +13,7 @@
           "subjecttitle": "SSC Steno Practice Tests",
           "slogo": "fa-solid fa-user-group",
           "active": true,
+          "expand": true,
           "chapters": [
             {
               "chaptertitle": "SSC Steno Previous Papers",

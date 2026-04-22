@@ -10,9 +10,10 @@
       "active": true,
       "subjects": [
         {
-          "subjecttitle": "SSC JE Civil Engineering",
+          "subjecttitle": "SSC Junior Engineering",
           "slogo": "fa-solid fa-user-group",
           "active": true,
+          "expand": true,
           "chapters": [
             {
               "chaptertitle": "SSC JE Civil Engineering Previous Papers",
@@ -28,14 +29,7 @@
               "totalTests": 49,
               "testsLabel": "49 Tests",
               "badgeText": "49 Tests"
-            }
-          ]
-        },
-        {
-          "subjecttitle": "SSC JE MEchanical Engineering",
-          "slogo": "fa-solid fa-user-group",
-          "active": true,
-          "chapters": [
+            },
             {
               "chaptertitle": "SSC JE Mechanical Engineering Previous Papers",
               "chapterpath": "examsnetapp/ssc/je/mechprev/",
@@ -50,14 +44,7 @@
               "totalTests": 42,
               "testsLabel": "42 Tests",
               "badgeText": "42 Tests"
-            }
-          ]
-        },
-        {
-          "subjecttitle": "SSC JE Electrical Engineering",
-          "slogo": "fa-solid fa-user-group",
-          "active": true,
-          "chapters": [
+            },
             {
               "chaptertitle": "SSC JE Electrical Engineering Previous Papers",
               "chapterpath": "examsnetapp/ssc/je/electricprev/",
@@ -75,6 +62,7 @@
             }
           ]
         }
+        
       ]
     }
   ],
