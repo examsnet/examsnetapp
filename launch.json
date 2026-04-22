@@ -9,11 +9,11 @@
     "active": true,
     "items": [
       {
-        "value": "32",
+        "value": "34",
         "label": "Exams"
       },
       {
-        "value": "2890",
+        "value": "3139",
         "label": "Mock Tests"
       },
       {
@@ -105,7 +105,7 @@
               "id": "eng-bitsat",
               "title": "BITSAT",
               "subtitle": "BITSAT Exam Papers",
-              "testsLabel": "22 Tests",
+              "testsLabel": "23 Tests",
               "icon": "fa-solid fa-lightbulb",
               "homePath": "examsnetapp/engineering/home/bitsat/"
             },
@@ -158,6 +158,22 @@
               "testsLabel": "174 Tests",
               "icon": "fa-solid fa-file-lines",
               "homePath": "examsnetapp/ssc/home/chsl/"
+            },
+            {
+              "id": "ssc-steno",
+              "title": "SSC Stenographer",
+              "subtitle": "SSC Stenographer Exam Papers",
+              "testsLabel": "102 Tests",
+              "icon": "fa-solid fa-file-lines",
+              "homePath": "examsnetapp/ssc/home/steno/"
+            },
+            {
+              "id": "ssc-junior-engineer",
+              "title": "SSC Junior Engineer",
+              "subtitle": "SSC JE Exam Papers",
+              "testsLabel": "136 Tests",
+              "icon": "fa-solid fa-file-lines",
+              "homePath": "examsnetapp/ssc/home/je/"
             }
           ]
         },
@@ -267,7 +283,7 @@
               "id": "upsc-ese",
               "title": "UPSC ESE",
               "subtitle": "ESE Exam Papers",
-              "testsLabel": "9 Tests",
+              "testsLabel": "19 Tests",
               "icon": "fa-solid fa-jet-fighter",
               "homePath": "examsnetapp/upsc/home/ese/"
             },
