@@ -1,4 +1,10 @@
 {
+  "gptOptions": {
+    "provider": "ollama",
+    "solverModel": "deepseek-r1:14b",
+    "correctorModel": "gemma2:9b",
+    "model": "gemma2:9b"
+  },
   "searchBar": {
     "active": true,
     "placeholder": "Search exams or subjects..."
